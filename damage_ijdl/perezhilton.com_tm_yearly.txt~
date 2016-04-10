@@ -1,0 +1,18 @@
+
+phantomjs --local-to-remote-url-access=yes rasterize.js http://web.archive.org/web/20050507053013/http://perezhilton.com/ perezhilton.com_2005.png perezhilton.com_2005.html perezhilton.com_2005.404
+
+phantomjs --local-to-remote-url-access=yes rasterize.js http://web.archive.org/web/20060101050604/http://www.perezhilton.com/ perezhilton.com_2006.png perezhilton.com_2006.html perezhilton.com_2006.404
+
+phantomjs --local-to-remote-url-access=yes rasterize.js http://web.archive.org/web/20070101120221/http://www.perezhilton.com/#player perezhilton.com_2007.png perezhilton.com_2007.html perezhilton.com_2007.404
+
+phantomjs --local-to-remote-url-access=yes rasterize.js http://web.archive.org/web/20080102032442/http://www.perezhilton.com/? perezhilton.com_2008.png perezhilton.com_2008.html perezhilton.com_2008.404
+
+phantomjs --local-to-remote-url-access=yes rasterize.js http://web.archive.org/web/20090101033642/http://perezhilton.com/? perezhilton.com_2009.png perezhilton.com_2009.html perezhilton.com_2009.404
+
+phantomjs --local-to-remote-url-access=yes rasterize.js http://web.archive.org/web/20100104000752/http://www.perezhilton.com/ perezhilton.com_2010.png perezhilton.com_2010.html perezhilton.com_2010.404
+
+phantomjs --local-to-remote-url-access=yes rasterize.js http://web.archive.org/web/20110101191343/http://perezhilton.com/ perezhilton.com_2011.png perezhilton.com_2011.html perezhilton.com_2011.404
+
+phantomjs --local-to-remote-url-access=yes rasterize.js http://web.archive.org/web/20120101213524/http://perezhilton.com/ perezhilton.com_2012.png perezhilton.com_2012.html perezhilton.com_2012.404
+
+phantomjs --local-to-remote-url-access=yes rasterize.js http://web.archive.org/web/20130102155507/http://perezhilton.com/ perezhilton.com_2013.png perezhilton.com_2013.html perezhilton.com_2013.404

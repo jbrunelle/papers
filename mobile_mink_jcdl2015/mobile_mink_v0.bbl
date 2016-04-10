@@ -1,0 +1,53 @@
+\begin{thebibliography}{1}
+
+\bibitem{archivetoday}
+Archive.today.
+\newblock \url{http://archive.today/}, 2015.
+
+\bibitem{4544648}
+A.~Jindal, C.~Crutchfield, S.~Goel, R.~Kolluri, and R.~Jain.
+\newblock The mobile web is structurally different.
+\newblock In {\em INFOCOM Workshops 2008, IEEE}, pages 1--6, 2008.
+
+\bibitem{idReps}
+M.~Kelly, J.~F. Brunelle, M.~C. Weigle, and M.~L. Nelson.
+\newblock A method for identifying dynamic representations in the archives.
+\newblock {\em D-Lib Magazine}, 19(11/12), November/December 2013.
+
+\bibitem{mink}
+M.~Kelly, M.~L. Nelson, and M.~C. Weigle.
+\newblock Mink: Integrating the live and archived web viewing experience using
+  web browsers and memento.
+\newblock In {\em JCDL 2014}, pages 469--470, 2014.
+
+\bibitem{frankMobileDlib}
+F.~McCown, M.~Yarbrough, and K.~Enlow.
+\newblock Tools for discovering and archiving the mobile web.
+\newblock {\em D-Lib Magazine}, 21(1/2), January/February 2015.
+
+\bibitem{savePage}
+A.~Rossi.
+\newblock {Fixing Broken Links on the Internet}.
+\newblock \url{https://blog.archive.org/2013/10/25/fixing-broken-links/}, 2013.
+
+\bibitem{frankMobile}
+R.~Schneider and F.~McCown.
+\newblock {First Steps in Archiving the Mobile Web: Automated Discovery of
+  Mobile Websites}.
+\newblock In {\em {JCDL 2013}}, pages 53--56, 2013.
+
+\bibitem{nelson:memento:tr}
+H.~{Van de Sompel}, M.~L. Nelson, R.~Sanderson, L.~L. Balakireva, S.~Ainsworth,
+  and H.~Shankar.
+\newblock {Memento: Time Travel for the Web}.
+\newblock Technical Report arXiv:0911.1112, Los Alamos National Laboratory,
+  2009.
+
+\bibitem{mobileWeb}
+B.~V. Wakode, D.~N. Choudhari, and V.~M. Thakare.
+\newblock {Accessing Web Content on Mobile Devices: Relevance, State of the Art
+  and Future Direction}.
+\newblock {\em International Journal of Computer Science \& Applications
+  (TIJCSA)}, 1(4):16--21, 2012.
+
+\end{thebibliography}

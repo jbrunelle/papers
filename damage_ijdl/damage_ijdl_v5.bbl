@@ -1,0 +1,245 @@
+\begin{thebibliography}{10}
+\providecommand{\url}[1]{{#1}}
+\providecommand{\urlprefix}{URL }
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{DOI~\discretionary{}{}{}#1}\else
+  \providecommand{\doi}{DOI~\discretionary{}{}{}\begingroup
+  \urlstyle{rm}\Url}\fi
+
+\bibitem{temporalCoherence}
+Ainsworth, S.G., Nelson, M.L.: Evaluating sliding and sticky target policies by
+  measuring temporal drift in acyclic walks through a web archive.
+\newblock International Journal on Digital Libraries pp. 1--16 (2014).
+\newblock \doi{10.1007/s00799-014-0120-4}
+
+\bibitem{yasminLinks}
+Alnoamany, Y., Alsum, A., Weigle, M., Nelson, M.: {Who and What Links to the
+  Internet Archive}.
+\newblock In: {Proceedings of the Third International Conference on Theory and
+  Practice of Digital Libraries}, pp. 346--357. ACM (2013).
+\newblock \doi{10.1007/978-3-642-40501-3_35}
+
+\bibitem{archivetoday}
+{Archive.today}: Archive.today.
+\newblock \url{http://archive.today/} (2013).
+\newblock \url{http://archive.today/}
+
+\bibitem{ipresArchivability}
+Banos, V., K.~Yunhyong, S.R., Manolopoulos, Y.: {CLEAR: a credible method to
+  evaluate website archivability}.
+\newblock In: Proceedings of the 9th International Conference on Preservation
+  of Digital Objects (2013)
+
+\bibitem{saad2011}
+{Ben Saad}, M., Gançarski, S.: Archiving the web using page changes patterns:
+  A case study.
+\newblock In: {Proceedings of the 11th Annual International Joint Conference on
+  Digital Libraries}, pp. 113--122 (2011).
+\newblock \doi{10.1145/1998076.1998098}
+
+\bibitem{saadIJDL}
+{Ben Saad}, M., Gançarski, S.: Archiving the web using page changes patterns:
+  a case study.
+\newblock International Journal on Digital Libraries \textbf{13}(1), 33--49
+  (2012).
+\newblock \doi{10.1007/s00799-012-0094-z}
+
+\bibitem{saadTPDL}
+{Ben Saad}, M., Pehlivan, Z., Gançarski, S.: Coherence-oriented crawling and
+  navigation using patterns for web archives.
+\newblock In: Proceedings of the First International Conference on Theory and
+  Practice of Digital Libraries, pp. 421--433 (2011)
+
+\bibitem{googleJS}
+Brunelle, J.F.: {Google and JavaScript}.
+\newblock
+  \url{http://ws-dl.blogspot.com/2014/06/2014-06-18-google-and-javascript.html}
+  (2014)
+
+\bibitem{ijdl}
+Brunelle, J.F., Kelly, M., Weigle, M.C., Nelson, M.L.: {The Impact of
+  JavaScript on Archivability}.
+\newblock International Journal of Digital Libraries \textbf{TBD}(TBD), TBD
+  (TBD).
+\newblock Accepted for publication
+
+\bibitem{zombies}
+Brunelle, J.F., Nelson, M.L.: Zombies in the archives.
+\newblock
+  \url{http://ws-dl.blogspot.com/2012/10/2012-10-10-zombies-in-archives.html}
+  (2012)
+
+\bibitem{Denev:2009:SFQ:1687627.1687694}
+Denev, D., Mazeika, A., Spaniol, M., Weikum, G.: {SHARC: framework for
+  quality-conscious web archiving}.
+\newblock Proceedings of the 35th International Conference on Very Large Data
+  Bases \textbf{2}, 586--597 (2009).
+\newblock \doi{10.1007/s00778-011-0219-9}
+
+\bibitem{webcite}
+Eysenbach, G., Trudel, M.: {Going, going, still there: using the WebCite
+  service to permanently archive cited web pages}.
+\newblock Journal of Medical Internet Research \textbf{7}(5) (2005).
+\newblock \doi{10.2196/jmir.7.5.e60}
+
+\bibitem{fawcett2006introduction}
+Fawcett, T.: {An introduction to ROC analysis}.
+\newblock Pattern recognition letters \textbf{27}(8), 861--874 (2006).
+\newblock \doi{10.1016/j.patrec.2005.10.010}
+
+\bibitem{Fersini20081431}
+Fersini, E., Messina, E., Archetti, F.: Enhancing web page classification
+  through image-block importance analysis.
+\newblock Information Processing \& Management \textbf{44}(4), 1431 -- 1447
+  (2008).
+\newblock \doi{10.1016/j.ipm.2007.11.003}
+
+\bibitem{wget}
+{GNU}: {Introduction to GNU Wget}.
+\newblock \url{http://www.gnu.org/software/wget/} (2013)
+
+\bibitem{mementoQuality}
+Gray, G., Martin, S.: Choosing a sustainable web archiving method: A comparison
+  of capture quality.
+\newblock D-Lib Magazine \textbf{19}(5) (2013).
+\newblock \doi{10.1045/may2013-gray}
+
+\bibitem{usingIA}
+Howell, B.A.: {Proving Web History: How to Use the Internet Archive}.
+\newblock Journal of Internet Law \textbf{9}(8), 3--9 (2006)
+
+\bibitem{htrixJS}
+Jack, P.: Extractorhtml extract-javascript.
+\newblock
+  \url{https://webarchive.jira.com/wiki/display/Heritrix/ExtractorHTML+extract-javascript}
+  (2014)
+
+\bibitem{kellyTPDL2013}
+Kelly, M., Brunelle, J.F., Weigle, M.C., Nelson, M.L.: {On the Change in
+  Archivability of Websites Over Time}.
+\newblock In: {Proceedings of the Third international conference on Theory and
+  Practice of Digital Libraries}, pp. 35--47 (2013).
+\newblock \doi{10.1007/978-3-642-40501-3_5}
+
+\bibitem{boilerPlate}
+Kohlsch\"{u}tter, C., Fankhauser, P., Nejdl, W.: {Boilerplate Detection Using
+  Shallow Text Features}.
+\newblock In: Proceedings of the Third ACM International Conference on Web
+  Search and Data Mining, pp. 441--450 (2010).
+\newblock \doi{10.1145/1718487.1718542}
+
+\bibitem{marshalls_social_media_study}
+Marshall, C.C., Shipman, F.M.: {On the Institutional Archiving of Social
+  Media}.
+\newblock In: {Proceedings of the 12th ACM/IEEE-CS Joint Conference on Digital
+  Libraries}, pp. 1--10 (2012).
+\newblock \doi{10.1145/2232817.2232819}
+
+\bibitem{heritrix}
+Mohr, G., Kimpton, M., Stack, M., Ranitovic, I.: {Introduction to Heritrix, an
+  archival quality web crawler}.
+\newblock In: Proceedings of the 4th International Web Archiving Workshop
+  (2004)
+
+\bibitem{iawebarchive}
+Negulescu, K.C.: {Web Archiving @ the Internet Archive}.
+\newblock Presentation at the 2010 Digital Preservation Partners Meeting, 2010
+  \url{http://www.digitalpreservation.gov/meetings/documents/ndiipp10/NDIIPP072110FinalIA.ppt}
+
+\bibitem{archiveisblog}
+Nelson, M.L.: 2013-07-09: Archive.is supports memento.
+\newblock
+  \url{http://ws-dl.blogspot.com/2013/07/2013-07-09-archiveis-supports-memento.html}
+  (2013)
+
+\bibitem{refreshZombies}
+Nelson, M.L.: {2014-07-14: ``Refresh'' For Zombies, Time Jumps}.
+\newblock
+  \url{http://ws-dl.blogspot.com/2014/07/2014-07-14-refresh-for-zombies-time.html}
+  (2014)
+
+\bibitem{pjs}
+{PhantomJS}: {PhantomJS}.
+\newblock \url{http://phantomjs.org/} (2013)
+
+\bibitem{rademacher}
+Rademacher, P., Lengyel, J., Cutrell, E., Whitted, T.: {Measuring the
+  Perception of Visual Realism in Images}.
+\newblock In: Rendering Techniques 2001, Eurographics, p. 235–247. Springer
+  (2001).
+\newblock \doi{10.1007/978-3-7091-6242-2_22}
+
+\bibitem{savePage}
+Rossi, A.: {Fixing Broken Links on the Internet}.
+\newblock \url{https://blog.archive.org/2013/10/25/fixing-broken-links/} (2013)
+
+\bibitem{losingmyrevolution}
+SalahEldeen, H.M., Nelson, M.L.: Losing my revolution: how many resources
+  shared on social media have been lost?
+\newblock In: {Proceedings of the Second international conference on Theory and
+  Practice of Digital Libraries}, pp. 125--137 (2012).
+\newblock \doi{10.1007/978-3-642-33290-6_14}
+
+\bibitem{hanyTPDL2013}
+SalahEldeen, H.M., Nelson, M.L.: {Resurrecting My Revolution: Using Social Link
+  Neighborhood in Bringing Context to the Disappearing Web}.
+\newblock In: {Proceedings of the Third international conference on Theory and
+  Practice of Digital Libraries}, pp. 333--345 (2013).
+\newblock \doi{10.1007/978-3-642-40501-3_34}
+
+\bibitem{Sigurosson:Incremental-Heritrix}
+Sigurðsson, K.: Incremental crawling with {Heritrix}.
+\newblock In: Proceedings of the 5th International Web Archiving Workshop
+  (2005)
+
+\bibitem{Singh2009}
+Singh, R., Bhhatarai, B.D.: Information-theoretic identification of content
+  pages for analyzing user information needs and actions on the multimedia web.
+\newblock In: Proceedings of the 2009 ACM Symposium on Applied Computing, pp.
+  1806--1810 (2009).
+\newblock \doi{10.1145/1529282.1529686}
+
+\bibitem{blockImportance}
+Song, R., Liu, H., Wen, J.R., Ma, W.Y.: Learning block importance models for
+  web pages.
+\newblock In: {Proceedings of the 13th international conference on World Wide
+  Web}, pp. 203--211 (2004).
+\newblock \doi{10.1145/988672.988700}
+
+\bibitem{spaniol2009data}
+Spaniol, M., Denev, D., Mazeika, A., Weikum, G., Senellart, P.: {Data quality
+  in web archiving}.
+\newblock In: {Proceedings of the 3rd Workshop on Information Credibility on
+  the Web}, pp. 19--26. ACM (2009)
+
+\bibitem{spaniol9catch}
+Spaniol, M., Mazeika, A., Denev, D., Weikum, G.: {Catch me if you can: Visual
+  Analysis of Coherence Defects in Web Archiving}.
+\newblock In: {Proceedings of The 9th International Web Archiving Workshop},
+  pp. 27--37 (2009)
+
+\bibitem{waybackarchives2}
+Tofel, B.: {`Wayback' for Accessing Web Archives}.
+\newblock In: Proceedings of the 7th International Web Archiving Workshop
+  (2007)
+
+\bibitem{nelson:memento:tr}
+{Van de Sompel}, H., Nelson, M.L., Sanderson, R., Balakireva, L.L., Ainsworth,
+  S., Shankar, H.: {Memento: Time Travel for the Web}.
+\newblock Tech. Rep. arXiv:0911.1112, Los Alamos National Laboratory (2009)
+
+\bibitem{Yi2003}
+Yi, L., Liu, B., Li, X.: Eliminating noisy information in web pages for data
+  mining.
+\newblock In: Proceedings of the Ninth ACM SIGKDD International Conference on
+  Knowledge Discovery and Data Mining, pp. 296--305 (2003).
+\newblock \doi{10.1145/956750.956785}
+
+\bibitem{Zhang200830}
+Zhang, X., Lin, W., Xue, P.: Just-noticeable difference estimation with pixels
+  in images.
+\newblock Journal of Visual Communication and Image Representation
+  \textbf{19}(1), 30--41 (2008).
+\newblock \doi{10.1109/TMM.2013.2268053}
+
+\end{thebibliography}

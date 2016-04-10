@@ -1,0 +1,50 @@
+This is BibTeX, Version 0.99d (TeX Live 2013/Debian)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: damage_ijdl_v1.aux
+The style file: spmpsci.bst
+Database file #1: _mybibtex.bib
+Warning--to sort, need author or key in wget
+Warning--empty journal in ijdl
+Warning--missing publisher in rademacher
+You've used 31 entries,
+            2946 wiz_defined-function locations,
+            786 strings with 10872 characters,
+and the built_in function-call counts, 22175 in all, are:
+= -- 2536
+> -- 461
+< -- 13
++ -- 278
+- -- 160
+* -- 938
+:= -- 2220
+add.period$ -- 41
+call.type$ -- 31
+change.case$ -- 208
+chr.to.int$ -- 0
+cite$ -- 34
+duplicate$ -- 2431
+empty$ -- 1532
+format.name$ -- 182
+if$ -- 4719
+int.to.chr$ -- 0
+int.to.str$ -- 31
+missing$ -- 282
+newline$ -- 140
+num.names$ -- 60
+pop$ -- 904
+preamble$ -- 1
+purify$ -- 142
+quote$ -- 0
+skip$ -- 1340
+stack$ -- 0
+substring$ -- 974
+swap$ -- 1903
+text.length$ -- 13
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 124
+warning$ -- 3
+while$ -- 118
+width$ -- 33
+write$ -- 323
+(There were 3 warnings)

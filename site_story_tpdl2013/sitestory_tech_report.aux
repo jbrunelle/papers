@@ -1,0 +1,92 @@
+\relax 
+\@writefile{toc}{\contentsline {title}{Evaluating the SiteStory Transactional Web Archive With the ApacheBench Tool}{1}}
+\@writefile{toc}{\authcount {5}}
+\@writefile{toc}{\contentsline {author}{Justin F. Brunelle\unskip {} \and Michael L. Nelson\unskip {} \and Lyudmila Balakireva\unskip {} \and Robert Sanderson\unskip {} \and Herbert Van de Sompel\unskip {} }{1}}
+\@writefile{toc}{\contentsline {section}{\numberline {1}Introduction}{1}}
+\newlabel{intro}{{1}{1}}
+\@writefile{lof}{\contentsline {figure}{\numberline {1}{\ignorespaces User and crawler accesses control the archival interval, capturing each returned representation.}}{2}}
+\newlabel{timeline}{{1}{2}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {1.1}Transactional Archiving}{2}}
+\newlabel{ta}{{1.1}{2}}
+\citation{memento:rfc}
+\citation{cho2000evolution}
+\citation{olston2008recrawl}
+\citation{brewington2000keeping,fetterly2004large,511465}
+\citation{hiddenurls}
+\citation{Dyreson:2004:MVW:988672.988730}
+\citation{transarch}
+\@writefile{toc}{\contentsline {subsection}{\numberline {1.2}SiteStory}{3}}
+\@writefile{toc}{\contentsline {section}{\numberline {2}Prior Work}{3}}
+\newlabel{priorwork}{{2}{3}}
+\citation{nelson:memento:tr,ldow2010:memento}
+\citation{sandersonimplementing}
+\citation{Teevan:2010:LSH:1753326.1753530,1622221}
+\citation{jatowt2006journey}
+\citation{adar2008zoetrope}
+\citation{hmotwia}
+\@writefile{lof}{\contentsline {figure}{\numberline {2}{\ignorespaces SiteStory consists of two parts: mod\_sitestory which is installed on the Apache server to be archived, and the transactional archive itself. Image taken from the SiteStory GitHub at \texttt  {http://mementoWeb.github.com/SiteStory/}.}}{4}}
+\newlabel{twa}{{2}{4}}
+\@writefile{toc}{\contentsline {section}{\numberline {3}Experiment design}{4}}
+\newlabel{experiment}{{3}{4}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.1}Experiment Machines}{4}}
+\newlabel{machines}{{3.1}{4}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.2}Experiment Runs}{5}}
+\newlabel{runs}{{3.2}{5}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.3}Connection Handling: ab}{5}}
+\newlabel{ab}{{3.3}{5}}
+\newlabel{tr1}{{3(a)}{6}}
+\newlabel{sub@tr1}{{(a)}{6}}
+\newlabel{tr2}{{3(b)}{6}}
+\newlabel{sub@tr2}{{(b)}{6}}
+\@writefile{lof}{\contentsline {figure}{\numberline {3}{\ignorespaces Total run time for 10,000 Connections.}}{6}}
+\@writefile{lof}{\contentsline {subfigure}{\numberline{(a)}{\ignorespaces {Total run time for the ab test with 10,000 connections and 1 concurrency.}}}{6}}
+\@writefile{lof}{\contentsline {subfigure}{\numberline{(b)}{\ignorespaces {Total run time for the ab test with 10,000 connections and 100 concurrency.}}}{6}}
+\newlabel{tares}{{3}{6}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.4}100 Static Resources: Clearing the Cache}{6}}
+\newlabel{static}{{3.4}{6}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.5}100 Changing Resources: Worst-Case Scenario}{7}}
+\newlabel{changes}{{3.5}{7}}
+\@writefile{toc}{\contentsline {section}{\numberline {4}Results}{7}}
+\newlabel{results}{{4}{7}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.1}ab Results}{7}}
+\newlabel{abresults}{{4.1}{7}}
+\newlabel{ts1}{{4(a)}{8}}
+\newlabel{sub@ts1}{{(a)}{8}}
+\newlabel{tc1}{{4(b)}{8}}
+\newlabel{sub@tc1}{{(b)}{8}}
+\@writefile{lof}{\contentsline {figure}{\numberline {4}{\ignorespaces 100 resources accessed on PC1. Resource \emph  {n} has \emph  {n} embedded images. }}{8}}
+\@writefile{lof}{\contentsline {subfigure}{\numberline{(a)}{\ignorespaces {Total access time for the 100 static resources on PC1.}}}{8}}
+\@writefile{lof}{\contentsline {subfigure}{\numberline{(b)}{\ignorespaces {Total access time for the 100 changing resources on PC1.}}}{8}}
+\newlabel{pc100}{{4}{8}}
+\newlabel{ts3}{{5(a)}{9}}
+\newlabel{sub@ts3}{{(a)}{9}}
+\newlabel{tc3}{{5(b)}{9}}
+\newlabel{sub@tc3}{{(b)}{9}}
+\@writefile{lof}{\contentsline {figure}{\numberline {5}{\ignorespaces 100 resources accessed on a burdened PC1. Resource \emph  {n} has \emph  {n} embedded images.}}{9}}
+\@writefile{lof}{\contentsline {subfigure}{\numberline{(a)}{\ignorespaces {Total access time for the 100 static resources on a burdened PC1.}}}{9}}
+\@writefile{lof}{\contentsline {subfigure}{\numberline{(b)}{\ignorespaces {Total access time for the 100 changing resources on a burdened PC1.}}}{9}}
+\newlabel{pc1002}{{5}{9}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.2}100 Resource Results}{9}}
+\newlabel{staticresults}{{4.2}{9}}
+\@writefile{lot}{\contentsline {table}{\numberline {1}{\ignorespaces 100 Resource Test Results}}{10}}
+\newlabel{table100}{{1}{10}}
+\bibcite{adar2008zoetrope}{1}
+\bibcite{hmotwia}{2}
+\bibcite{brewington2000keeping}{3}
+\bibcite{cho2000evolution}{4}
+\bibcite{Dyreson:2004:MVW:988672.988730}{5}
+\@writefile{toc}{\contentsline {section}{\numberline {5}Conclusions}{11}}
+\newlabel{conclusion}{{5}{11}}
+\@writefile{toc}{\contentsline {section}{\numberline {6}Acknowledgments}{11}}
+\bibcite{fetterly2004large}{6}
+\bibcite{transarch}{7}
+\bibcite{hiddenurls}{8}
+\bibcite{jatowt2006journey}{9}
+\bibcite{olston2008recrawl}{10}
+\bibcite{sandersonimplementing}{11}
+\bibcite{Teevan:2010:LSH:1753326.1753530}{12}
+\bibcite{1622221}{13}
+\bibcite{memento:rfc}{14}
+\bibcite{nelson:memento:tr}{15}
+\bibcite{ldow2010:memento}{16}
+\bibcite{511465}{17}

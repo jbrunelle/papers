@@ -1,0 +1,1317 @@
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2014.9.21)  10 NOV 2014 16:29
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**damage_ijdl_v2.tex
+(./damage_ijdl_v2.tex
+LaTeX2e <2011/06/27>
+Babel <3.9h> and hyphenation patterns for 4 languages loaded.
+
+LaTeX Warning: File `example.eps' already exists on the system.
+               Not generating it from this source.
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/fix-cm.sty
+Package: fix-cm 2006/09/13 v1.1m fixes to LaTeX
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/ts1enc.def
+File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
+)) (./svjour3.cls
+Document Class: svjour3 2007/05/08 v3.2 
+LaTeX document class for Springer journals
+(/usr/share/texlive/texmf-dist/tex/latex/base/fleqn.clo
+File: fleqn.clo 1998/08/17 v1.1c Standard LaTeX option (flush left equations)
+\mathindent=\dimen102
+)
+Class Springer-SVJour3 Info: extra/valid Springer sub-package (-> *.clo) 
+(Springer-SVJour3)           not found in option list of \documentclass
+(Springer-SVJour3)           - autoactivating "global" style.
+ (./svglov3.clo
+File: svglov3.clo 2009/12/18 v3.2 style option for standardised journals
+
+SVJour Class option: svglov3.clo for standardised journals
+)
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 147.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 148.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 149.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 150.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 151.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 152.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 153.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 154.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 155.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 156.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 157.
+\logodepth=\dimen103
+\headerboxheight=\dimen104
+\betweenumberspace=\dimen105
+\aftertext=\dimen106
+\headlineindent=\dimen107
+\c@inst=\count79
+\c@auth=\count80
+\instindent=\dimen108
+\authrun=\box26
+\authorrunning=\toks14
+\titrun=\box27
+\titlerunning=\toks15
+\combirun=\box28
+\c@lastpage=\count81
+\rubricwidth=\dimen109
+\c@section=\count82
+\c@subsection=\count83
+\c@subsubsection=\count84
+\c@paragraph=\count85
+\c@subparagraph=\count86
+\spthmsep=\dimen110
+\c@theorem=\count87
+\c@case=\count88
+\c@conjecture=\count89
+\c@corollary=\count90
+\c@definition=\count91
+\c@example=\count92
+\c@exercise=\count93
+\c@lemma=\count94
+\c@note=\count95
+\c@problem=\count96
+\c@property=\count97
+\c@proposition=\count98
+\c@question=\count99
+\c@solution=\count100
+\c@remark=\count101
+\c@figure=\count102
+\c@table=\count103
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\figcapgap=\dimen111
+\tabcapgap=\dimen112
+\figgap=\dimen113
+\bibindent=\dimen114
+\@tempcntc=\count104
+) (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+(/usr/share/texlive/texmf-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count105
+))
+\Gin@req@height=\dimen115
+\Gin@req@width=\dimen116
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks17
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(/usr/share/texlive/texmf-dist/tex/latex/listings/listings.sty
+\lst@mode=\count106
+\lst@gtempboxa=\box29
+\lst@token=\toks18
+\lst@length=\count107
+\lst@currlwidth=\dimen117
+\lst@column=\count108
+\lst@pos=\count109
+\lst@lostspace=\dimen118
+\lst@width=\dimen119
+\lst@newlines=\count110
+\lst@lineno=\count111
+\lst@maxwidth=\dimen120
+
+(/usr/share/texlive/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2013/08/26 1.5b (Carsten Heinz)
+\c@lstnumber=\count112
+\lst@skipnumbers=\count113
+\lst@framebox=\box30
+)
+(/usr/share/texlive/texmf-dist/tex/latex/listings/listings.cfg
+File: listings.cfg 2013/08/26 1.5b listings configuration
+))
+Package: listings 2013/08/26 1.5b (Carsten Heinz)
+
+(./subfigure.sty
+Package: subfigure 2002/07/30 v2.1.4 subfigure package
+\subfigtopskip=\skip43
+\subfigcapskip=\skip44
+\subfigcaptopadj=\dimen121
+\subfigbottomskip=\skip45
+\subfigcapmargin=\dimen122
+\subfiglabelskip=\skip46
+\c@subfigure=\count114
+\c@lofdepth=\count115
+\c@subtable=\count116
+\c@lotdepth=\count117
+
+****************************************
+* Local config file subfigure.cfg used *
+****************************************
+(/usr/share/texlive/texmf-dist/tex/latex/subfigure/subfigure.cfg)
+\subfig@top=\skip47
+\subfig@bottom=\skip48
+)
+(/usr/share/texlive/texmf-dist/tex/latex/mh/mathtools.sty
+Package: mathtools 2013/02/12 v1.13 mathematical typesetting tools
+
+(/usr/share/texlive/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2007/08/22 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count118
+\calc@Bcount=\count119
+\calc@Adimen=\dimen123
+\calc@Bdimen=\dimen124
+\calc@Askip=\skip49
+\calc@Bskip=\skip50
+LaTeX Info: Redefining \setlength on input line 76.
+LaTeX Info: Redefining \addtolength on input line 77.
+\calc@Ccount=\count120
+\calc@Cskip=\skip51
+)
+(/usr/share/texlive/texmf-dist/tex/latex/mh/mhsetup.sty
+Package: mhsetup 2010/01/21 v1.2a programming setup (MH)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2013/01/14 v2.14 AMS math features
+\@mathmargin=\skip52
+
+For additional information on amsmath, use the `?' option.
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks19
+\ex@=\dimen125
+))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen126
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count121
+LaTeX Info: Redefining \frac on input line 210.
+\uproot@=\count122
+\leftroot@=\count123
+LaTeX Info: Redefining \overline on input line 306.
+\classnum@=\count124
+\DOTSCASE@=\count125
+LaTeX Info: Redefining \ldots on input line 378.
+LaTeX Info: Redefining \dots on input line 381.
+LaTeX Info: Redefining \cdots on input line 466.
+\Mathstrutbox@=\box31
+\strutbox@=\box32
+\big@size=\dimen127
+LaTeX Font Info:    Redeclaring font encoding OML on input line 566.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
+
+
+Package amsmath Warning: Unable to redefine math accent \vec.
+
+\macc@depth=\count126
+\c@MaxMatrixCols=\count127
+\dotsspace@=\muskip10
+\c@parentequation=\count128
+\dspbrk@lvl=\count129
+\tag@help=\toks20
+\row@=\count130
+\column@=\count131
+\maxfields@=\count132
+\andhelp@=\toks21
+\eqnshift@=\dimen128
+\alignsep@=\dimen129
+\tagshift@=\dimen130
+\tagwidth@=\dimen131
+\totwidth@=\dimen132
+\lineht@=\dimen133
+\@envbody=\toks22
+\multlinegap=\skip53
+\multlinetaggap=\skip54
+\mathdisplay@stack=\toks23
+LaTeX Info: Redefining \[ on input line 2665.
+LaTeX Info: Redefining \] on input line 2666.
+)
+LaTeX Info: Thecontrolsequence`\['isalreadyrobust on input line 129.
+LaTeX Info: Thecontrolsequence`\]'isalreadyrobust on input line 129.
+\g_MT_multlinerow_int=\count133
+\l_MT_multwidth_dim=\dimen134
+\origjot=\skip55
+\l_MT_shortvdotswithinadjustabove_dim=\dimen135
+\l_MT_shortvdotswithinadjustbelow_dim=\dimen136
+\l_MT_above_intertext_sep=\dimen137
+\l_MT_below_intertext_sep=\dimen138
+\l_MT_above_shortintertext_sep=\dimen139
+\l_MT_below_shortintertext_sep=\dimen140
+) (/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip11
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/cite/cite.sty
+LaTeX Info: Redefining \cite on input line 302.
+LaTeX Info: Redefining \nocite on input line 373.
+Package: cite 2010/09/10  v 5.3
+)
+(/usr/share/texlive/texmf-dist/tex/latex/colortbl/colortbl.sty
+Package: colortbl 2012/02/13 v1.0a Color table columns (DPC)
+
+(/usr/share/texlive/texmf-dist/tex/latex/tools/array.sty
+Package: array 2008/09/09 v2.4c Tabular extension package (FMi)
+\col@sep=\dimen141
+\extrarowheight=\dimen142
+\NC@list=\toks24
+\extratabsurround=\skip56
+\backup@length=\skip57
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2005/11/14 v1.0j Standard LaTeX Color (DPC)
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package color Info: Driver file: pdftex.def on input line 130.
+)
+\everycr=\toks25
+\minrowclearance=\skip58
+)
+(/usr/share/texlive/texmf-dist/tex/latex/base/alltt.sty
+Package: alltt 1997/06/16 v2.0g defines alltt environment
+)
+(/usr/share/texlive/texmf-dist/tex/latex/wrapfig/wrapfig.sty
+\wrapoverhang=\dimen143
+\WF@size=\dimen144
+\c@WF@wrappedlines=\count134
+\WF@box=\box33
+\WF@everypar=\toks26
+Package: wrapfig 2003/01/31  v 3.6
+)
+(/usr/share/texlive/texmf-dist/tex/latex/mdframed/mdframed.sty
+Package: mdframed 2013/07/01 1.9b: mdframed
+
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+(/usr/share/texlive/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3names.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3bootstrap.sty
+Package: l3bootstrap 2014/01/04 v4640 L3 Experimental bootstrap code
+)
+Package: l3names 2014/01/04 v4640 L3 Namespace for primitives
+)
+(/usr/share/texlive/texmf-dist/tex/latex/etex-pkg/etex.sty
+Package: etex 1998/03/26 v2.0 eTeX basic definition package (PEB)
+\et@xins=\count135
+)
+Package: expl3 2014/01/07 v4646 L3 Experimental code bundle wrapper
+
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3basics.sty
+Package: l3basics 2014/01/04 v4642 L3 Basic definitions
+)
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3expan.sty
+Package: l3expan 2014/01/04 v4642 L3 Argument expansion
+)
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3tl.sty
+Package: l3tl 2013/12/27 v4625 L3 Token lists
+)
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3seq.sty
+Package: l3seq 2013/12/14 v4623 L3 Sequences and stacks
+)
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3int.sty
+Package: l3int 2013/08/02 v4583 L3 Integers
+\c_max_int=\count136
+\l_tmpa_int=\count137
+\l_tmpb_int=\count138
+\g_tmpa_int=\count139
+\g_tmpb_int=\count140
+)
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3quark.sty
+Package: l3quark 2013/12/14 v4623 L3 Quarks
+)
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3prg.sty
+Package: l3prg 2014/01/04 v4642 L3 Control structures
+\g__prg_map_int=\count141
+)
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3clist.sty
+Package: l3clist 2013/07/28 v4581 L3 Comma separated lists
+)
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3token.sty
+Package: l3token 2013/08/25 v4587 L3 Experimental token manipulation
+)
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3prop.sty
+Package: l3prop 2013/12/14 v4623 L3 Property lists
+)
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3msg.sty
+Package: l3msg 2013/07/28 v4581 L3 Messages
+)
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3file.sty
+Package: l3file 2013/10/13 v4596 L3 File and I/O operations
+\l_iow_line_count_int=\count142
+\l__iow_target_count_int=\count143
+\l__iow_current_line_int=\count144
+\l__iow_current_word_int=\count145
+\l__iow_current_indentation_int=\count146
+)
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3skip.sty
+Package: l3skip 2013/07/28 v4581 L3 Dimensions and skips
+\c_zero_dim=\dimen145
+\c_max_dim=\dimen146
+\l_tmpa_dim=\dimen147
+\l_tmpb_dim=\dimen148
+\g_tmpa_dim=\dimen149
+\g_tmpb_dim=\dimen150
+\c_zero_skip=\skip59
+\c_max_skip=\skip60
+\l_tmpa_skip=\skip61
+\l_tmpb_skip=\skip62
+\g_tmpa_skip=\skip63
+\g_tmpb_skip=\skip64
+\c_zero_muskip=\muskip12
+\c_max_muskip=\muskip13
+\l_tmpa_muskip=\muskip14
+\l_tmpb_muskip=\muskip15
+\g_tmpa_muskip=\muskip16
+\g_tmpb_muskip=\muskip17
+)
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3keys.sty
+Package: l3keys 2013/12/08 v4614 L3 Experimental key-value interfaces
+\g__keyval_level_int=\count147
+\l_keys_choice_int=\count148
+)
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3fp.sty
+Package: l3fp 2014/01/04 v4642 L3 Floating points
+\c__fp_leading_shift_int=\count149
+\c__fp_middle_shift_int=\count150
+\c__fp_trailing_shift_int=\count151
+\c__fp_big_leading_shift_int=\count152
+\c__fp_big_middle_shift_int=\count153
+\c__fp_big_trailing_shift_int=\count154
+\c__fp_Bigg_leading_shift_int=\count155
+\c__fp_Bigg_middle_shift_int=\count156
+\c__fp_Bigg_trailing_shift_int=\count157
+)
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3box.sty
+Package: l3box 2013/07/28 v4581 L3 Experimental boxes
+\c_empty_box=\box34
+\l_tmpa_box=\box35
+\l_tmpb_box=\box36
+\g_tmpa_box=\box37
+\g_tmpb_box=\box38
+)
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3coffins.sty
+Package: l3coffins 2013/12/14 v4624 L3 Coffin code layer
+\l__coffin_internal_box=\box39
+\l__coffin_internal_dim=\dimen151
+\l__coffin_offset_x_dim=\dimen152
+\l__coffin_offset_y_dim=\dimen153
+\l__coffin_x_dim=\dimen154
+\l__coffin_y_dim=\dimen155
+\l__coffin_x_prime_dim=\dimen156
+\l__coffin_y_prime_dim=\dimen157
+\c_empty_coffin=\box40
+\l__coffin_aligned_coffin=\box41
+\l__coffin_aligned_internal_coffin=\box42
+\l_tmpa_coffin=\box43
+\l_tmpb_coffin=\box44
+\l__coffin_display_coffin=\box45
+\l__coffin_display_coord_coffin=\box46
+\l__coffin_display_pole_coffin=\box47
+\l__coffin_display_offset_dim=\dimen158
+\l__coffin_display_x_dim=\dimen159
+\l__coffin_display_y_dim=\dimen160
+)
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3color.sty
+Package: l3color 2012/08/29 v4156 L3 Experimental color support
+)
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3luatex.sty
+Package: l3luatex 2013/07/28 v4581 L3 Experimental LuaTeX-specific functions
+\g__cctab_allocate_int=\count158
+\g__cctab_stack_int=\count159
+)
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3candidates.sty
+Package: l3candidates 2014/01/06 v4643 L3 Experimental additions to l3kernel
+\l__box_top_dim=\dimen161
+\l__box_bottom_dim=\dimen162
+\l__box_left_dim=\dimen163
+\l__box_right_dim=\dimen164
+\l__box_top_new_dim=\dimen165
+\l__box_bottom_new_dim=\dimen166
+\l__box_left_new_dim=\dimen167
+\l__box_right_new_dim=\dimen168
+\l__box_internal_box=\box48
+\l__coffin_bounding_shift_dim=\dimen169
+\l__coffin_left_corner_dim=\dimen170
+\l__coffin_right_corner_dim=\dimen171
+\l__coffin_bottom_corner_dim=\dimen172
+\l__coffin_top_corner_dim=\dimen173
+\l__coffin_scaled_total_height_dim=\dimen174
+\l__coffin_scaled_width_dim=\dimen175
+)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+))
+Package: xparse 2013/12/31 v4634 L3 Experimental document command parser
+\l__xparse_current_arg_int=\count160
+\l__xparse_m_args_int=\count161
+\l__xparse_mandatory_args_int=\count162
+\l__xparse_processor_int=\count163
+\l__xparse_v_nesting_int=\count164
+)
+(/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2011/01/03 v2.1 e-TeX tools for LaTeX
+\etb@tempcnta=\count165
+)
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/zref-abspage.sty
+Package: zref-abspage 2012/04/04 v2.24 Module abspage for zref (HO)
+
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/zref-base.sty
+Package: zref-base 2012/04/04 v2.24 Module base for zref (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/auxhook.sty
+Package: auxhook 2011/03/04 v1.3 Hooks for auxiliary files (HO)
+)
+Package zref Info: New property list: main on input line 759.
+Package zref Info: New property: default on input line 760.
+Package zref Info: New property: page on input line 761.
+)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/atbegshi.sty
+Package: atbegshi 2011/10/05 v1.16 At begin shipout hook (HO)
+)
+\c@abspage=\count166
+Package zref Info: New property: abspage on input line 62.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/needspace/needspace.sty
+Package: needspace 2010/09/12 v1.3d reserve vertical space
+)
+\mdf@templength=\skip65
+\c@mdf@globalstyle@cnt=\count167
+\mdf@skipabove@length=\skip66
+\mdf@skipbelow@length=\skip67
+\mdf@leftmargin@length=\skip68
+\mdf@rightmargin@length=\skip69
+\mdf@innerleftmargin@length=\skip70
+\mdf@innerrightmargin@length=\skip71
+\mdf@innertopmargin@length=\skip72
+\mdf@innerbottommargin@length=\skip73
+\mdf@splittopskip@length=\skip74
+\mdf@splitbottomskip@length=\skip75
+\mdf@outermargin@length=\skip76
+\mdf@innermargin@length=\skip77
+\mdf@linewidth@length=\skip78
+\mdf@innerlinewidth@length=\skip79
+\mdf@middlelinewidth@length=\skip80
+\mdf@outerlinewidth@length=\skip81
+\mdf@roundcorner@length=\skip82
+\mdf@footenotedistance@length=\skip83
+\mdf@userdefinedwidth@length=\skip84
+\mdf@needspace@length=\skip85
+\mdf@frametitleaboveskip@length=\skip86
+\mdf@frametitlebelowskip@length=\skip87
+\mdf@frametitlerulewidth@length=\skip88
+\mdf@frametitleleftmargin@length=\skip89
+\mdf@frametitlerightmargin@length=\skip90
+\mdf@shadowsize@length=\skip91
+\mdf@extratopheight@length=\skip92
+\mdf@subtitleabovelinewidth@length=\skip93
+\mdf@subtitlebelowlinewidth@length=\skip94
+\mdf@subtitleaboveskip@length=\skip95
+\mdf@subtitlebelowskip@length=\skip96
+\mdf@subtitleinneraboveskip@length=\skip97
+\mdf@subtitleinnerbelowskip@length=\skip98
+\mdf@subsubtitleabovelinewidth@length=\skip99
+\mdf@subsubtitlebelowlinewidth@length=\skip100
+\mdf@subsubtitleaboveskip@length=\skip101
+\mdf@subsubtitlebelowskip@length=\skip102
+\mdf@subsubtitleinneraboveskip@length=\skip103
+\mdf@subsubtitleinnerbelowskip@length=\skip104
+
+(/usr/share/texlive/texmf-dist/tex/latex/mdframed/md-frame-0.mdf
+File: md-frame-0.mdf 2013/07/01\ 1.9b: md-frame-0
+)
+\mdf@frametitlebox=\box49
+\mdf@footnotebox=\box50
+\mdf@splitbox@one=\box51
+\mdf@splitbox@two=\box52
+\mdf@splitbox@save=\box53
+\mdfsplitboxwidth=\skip105
+\mdfsplitboxtotalwidth=\skip106
+\mdfsplitboxheight=\skip107
+\mdfsplitboxdepth=\skip108
+\mdfsplitboxtotalheight=\skip109
+\mdfframetitleboxwidth=\skip110
+\mdfframetitleboxtotalwidth=\skip111
+\mdfframetitleboxheight=\skip112
+\mdfframetitleboxdepth=\skip113
+\mdfframetitleboxtotalheight=\skip114
+\mdffootnoteboxwidth=\skip115
+\mdffootnoteboxtotalwidth=\skip116
+\mdffootnoteboxheight=\skip117
+\mdffootnoteboxdepth=\skip118
+\mdffootnoteboxtotalheight=\skip119
+\mdftotallinewidth=\skip120
+\mdfboundingboxwidth=\skip121
+\mdfboundingboxtotalwidth=\skip122
+\mdfboundingboxheight=\skip123
+\mdfboundingboxdepth=\skip124
+\mdfboundingboxtotalheight=\skip125
+\mdf@freevspace@length=\skip126
+\mdf@horizontalwidthofbox@length=\skip127
+\mdf@verticalmarginwhole@length=\skip128
+\mdf@horizontalspaceofbox=\skip129
+\mdfsubtitleheight=\skip130
+\mdfsubsubtitleheight=\skip131
+\c@mdfcountframes=\count168
+
+****** mdframed patching \endmdf@trivlist
+
+****** -- success******
+
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \newmdtheoremenv with arg. spec. 'O{} m o m o ' on
+. line 601.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \mdtheorem with arg. spec. ' O{} m o m o ' on line
+. 701.
+.................................................
+\mdf@envdepth=\count169
+\c@mdf@env@i=\count170
+\c@mdf@env@ii=\count171
+\c@mdf@zref@counter=\count172
+Package zref Info: New property: mdf@pagevalue on input line 895.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/natbib/natbib.sty
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+
+
+Package natbib Warning: The `cite' package should not be used
+(natbib)                with natbib. Use option `sort' instead.
+
+\bibhang=\skip132
+\bibsep=\skip133
+LaTeX Info: Redefining \cite on input line 694.
+LaTeX Info: Redefining \citenum on input line 708.
+\c@NAT@ctr=\count173
+) (./damage_ijdl_v2.aux)
+\openout1 = `damage_ijdl_v2.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 103.
+LaTeX Font Info:    ... okay on input line 103.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 103.
+LaTeX Font Info:    ... okay on input line 103.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 103.
+LaTeX Font Info:    ... okay on input line 103.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 103.
+LaTeX Font Info:    ... okay on input line 103.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 103.
+LaTeX Font Info:    ... okay on input line 103.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 103.
+LaTeX Font Info:    ... okay on input line 103.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 103.
+LaTeX Font Info:    ... okay on input line 103.
+
+Unknown journal: specify \journalname{<name of your journal>} in preambel
+
+(/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count174
+\scratchdimen=\dimen176
+\scratchbox=\box54
+\nofMPsegments=\count175
+\nofMParguments=\count176
+\everyMPshowfont=\toks27
+\MPscratchCnt=\count177
+\MPscratchDim=\dimen177
+\MPnumerator=\count178
+\makeMPintoPDFobject=\count179
+\everyMPtoPDFconversion=\toks28
+) (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
+
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
+)
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 452.
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+\c@lstlisting=\count180
+\AtBeginShipoutBox=\box55
+
+SVJour3 warning: Missing \journalname
+LaTeX Font Info:    Calculating math sizes for size <8.5> on input line 120.
+LaTeX Font Info:    Try loading font information for U+msa on input line 120.
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 120.
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+Underfull \vbox (badness 2818) has occurred while \output is active []
+
+
+Overfull \hbox (0.50844pt too wide) in paragraph at lines 132--133
+\OT1/cmr/m/n/10 Web archives are valu-able cul-tural repos-i-to-ries that cap-
+ []
+
+
+Overfull \hbox (4.70291pt too wide) in paragraph at lines 134--135
+[]\OT1/cmr/m/n/10 Large im-ages are of-ten more im-por-tant to an archived
+ []
+
+[1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
+
+
+]
+<./imgs/undamagedAnnotated.png, id=12, 614.295pt x 794.97pt>
+File: ./imgs/undamagedAnnotated.png Graphic file (type png)
+
+<use ./imgs/undamagedAnnotated.png>
+Package pdftex.def Info: ./imgs/undamagedAnnotated.png used on input line 153.
+(pdftex.def)             Requested size: 148.50151pt x 192.17955pt.
+
+<./imgs/missingBigAnnotated.png, id=13, 614.295pt x 794.97pt>
+File: ./imgs/missingBigAnnotated.png Graphic file (type png)
+
+<use ./imgs/missingBigAnnotated.png>
+Package pdftex.def Info: ./imgs/missingBigAnnotated.png used on input line 154.
+
+(pdftex.def)             Requested size: 148.50151pt x 192.17955pt.
+
+<./imgs/missingLittleAnnotated.png, id=14, 614.295pt x 794.97pt>
+File: ./imgs/missingLittleAnnotated.png Graphic file (type png)
+
+<use ./imgs/missingLittleAnnotated.png>
+Package pdftex.def Info: ./imgs/missingLittleAnnotated.png used on input line 1
+55.
+(pdftex.def)             Requested size: 148.50151pt x 192.17955pt.
+
+<./imgs/missing_flood_page_crop.png, id=15, 1027.84pt x 797.98125pt>
+File: ./imgs/missing_flood_page_crop.png Graphic file (type png)
+
+<use ./imgs/missing_flood_page_crop.png>
+Package pdftex.def Info: ./imgs/missing_flood_page_crop.png used on input line 
+157.
+(pdftex.def)             Requested size: 222.74849pt x 172.92635pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 157--157
+\OT1/cmtt/m/n/8.5 web / 20110116022653 / http : / / www . cityofmoorhead . com 
+/
+ []
+
+
+Underfull \hbox (badness 2173) in paragraph at lines 157--157
+\OT1/cmtt/m/n/8.5 flood / ?$\OT1/cmr/m/n/8.5 ) is miss-ing two style-sheets whi
+ch changes
+ []
+
+
+Underfull \hbox (badness 1881) in paragraph at lines 157--157
+\OT1/cmr/m/n/8.5 the en-tire ap-pear-ance and util-ity of the mem-ento
+ []
+
+<./imgs/missing_lots_crop.png, id=17, 1027.84pt x 807.015pt>
+File: ./imgs/missing_lots_crop.png Graphic file (type png)
+
+<use ./imgs/missing_lots_crop.png>
+Package pdftex.def Info: ./imgs/missing_lots_crop.png used on input line 159.
+(pdftex.def)             Requested size: 222.74849pt x 174.88402pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 159--159
+[]\OT1/cmr/m/n/8.5 (e) Mean-while, this mem-ento (URI-M $\OT1/cmtt/m/n/8.5 http
+ :
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 159--159
+\OT1/cmtt/m/n/8.5 / / web . archive . org / web / 20060102083228 / http :
+ []
+
+
+Underfull \hbox (badness 2088) in paragraph at lines 159--159
+\OT1/cmtt/m/n/8.5 / / www . ascc . edu/$\OT1/cmr/m/n/8.5 ) is miss-ing two styl
+e-sheets (along
+ []
+
+
+Underfull \hbox (badness 3343) in paragraph at lines 159--159
+\OT1/cmr/m/n/8.5 with two im-ages) but does not ap-pear dam-aged
+ []
+
+
+Overfull \hbox (0.50845pt too wide) in paragraph at lines 165--168
+\OT1/cmr/m/n/10 source with em-bed-ded re-sources of dif-fer-ing im-por-tance.
+ []
+
+
+Overfull \hbox (1.67406pt too wide) in paragraph at lines 165--168
+\OT1/cmtt/m/n/10 http : / / www . xkcd . com/$ \OT1/cmr/m/n/10 by re-mov-ing em
+-bed-ded im-ages.
+ []
+
+
+Overfull \hbox (9.45284pt too wide) in paragraph at lines 183--184
+\OT1/cmr/m/n/10 based on match-ing crawler strate-gies with re-source change
+ []
+
+[2]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [3 <./imgs/undamagedAnnotated.png> <./imgs/missingBigAnnotated.png> <./imgs/mi
+ssingLittleAnnotated.png> <./imgs/missing_flood_page_crop.png> <./imgs/missing_
+lots_crop.png>]
+Overfull \hbox (2.42627pt too wide) in paragraph at lines 187--188
+[]\OT1/cmr/m/n/10 Banos et al. cre-ated an al-go-rithm to eval-u-ate archival
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 212--212
+[]|$\OT1/cmtt/m/n/8.5 http : / / activehistory . ca / 2013 /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 212--212
+\OT1/cmtt/m/n/8.5 06 / myspace-[]is-[]cool-[]again-[]too$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 212--212
+\OT1/cmtt/m/n/8.5 -[]bad-[]they-[]destroyed-[]history-[]$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 218--218
+[]|$\OT1/cmtt/m/n/8.5 http : / / ws-[]dl . blogspot . com / 2013 / 08 /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 218--218
+\OT1/cmtt/m/n/8.5 2013-[]07-[]26-[]web-[]archiving-[]and-[]digital .
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 220--220
+[]|$\OT1/cmtt/m/n/8.5 http : / / www . cnn . com / 2013 /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 220--220
+\OT1/cmtt/m/n/8.5 08 / 19 / tech / social-[]media /
+ []
+
+
+Overfull \hbox (3.66826pt too wide) in paragraph at lines 241--242
+\OT1/cmr/m/n/10 dam-aged mem-ento) 81% of the time (226/280). As $\OML/cmm/m/it
+/10 ^^AM[]$
+ []
+
+
+Overfull \hbox (3.39908pt too wide) in paragraph at lines 245--263
+[][] 
+ []
+
+[4]
+Overfull \hbox (3.5374pt too wide) in paragraph at lines 294--295
+\OT1/cmr/m/n/10 an al-go-rithm's per-for-mance. The top left quad-rant shows
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [5]
+Overfull \hbox (3.39908pt too wide) in paragraph at lines 310--328
+[][] 
+ []
+
+
+Overfull \hbox (1.8417pt too wide) in paragraph at lines 350--351
+\OT1/cmr/m/n/10 curve [[]], we cal-cu-lated the Area Un-der the ROC Curve
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [6]
+<./imgs/withcss.png, id=47, 796.47563pt x 597.73312pt>
+File: ./imgs/withcss.png Graphic file (type png)
+
+<use ./imgs/withcss.png>
+Package pdftex.def Info: ./imgs/withcss.png used on input line 479.
+(pdftex.def)             Requested size: 220.8258pt x 165.72241pt.
+ <./imgs/nocss.png, id=48, 796.47563pt x 597.73312pt>
+File: ./imgs/nocss.png Graphic file (type png)
+
+<use ./imgs/nocss.png>
+Package pdftex.def Info: ./imgs/nocss.png used on input line 480.
+(pdftex.def)             Requested size: 220.8258pt x 165.72241pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<./imgs/thePng_crop3.png, id=49, 343.2825pt x 643.40375pt>
+File: ./imgs/thePng_crop3.png Graphic file (type png)
+
+<use ./imgs/thePng_crop3.png>
+Package pdftex.def Info: ./imgs/thePng_crop3.png used on input line 490.
+(pdftex.def)             Requested size: 100.37537pt x 188.12366pt.
+
+<./imgs/thePngNOCSS_crop3.png, id=50, 340.27126pt x 642.4pt>
+File: ./imgs/thePngNOCSS_crop3.png Graphic file (type png)
+
+<use ./imgs/thePngNOCSS_crop3.png>
+Package pdftex.def Info: ./imgs/thePngNOCSS_crop3.png used on input line 492.
+(pdftex.def)             Requested size: 100.37537pt x 189.49655pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[7]
+Overfull \hbox (0.36955pt too wide) in paragraph at lines 528--529
+[]\OT1/cmr/m/n/10 Determine pro-por-tion of un-suc-cess-fully deref-er-enced
+ []
+
+
+Overfull \hbox (2.34172pt too wide) in paragraph at lines 529--530
+\OT1/cmr/m/n/10 with only those URI-Ms un-suc-cess-fully deref-er-enced) 
+ []
+
+[8 <./imgs/withcss.png> <./imgs/nocss.png> <./imgs/thePng_crop3.png> <./imgs/th
+ePngNOCSS_crop3.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 565--568
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 565--568
+
+ []
+
+
+LaTeX Warning: Command \textgreater invalid in math mode on input line 577.
+
+LaTeX Font Info:    Try loading font information for OML+cmr on input line 577.
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/omlcmr.fd
+File: omlcmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OML/cmr/m/n' in size <10> not available
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 577.
+
+
+LaTeX Warning: Command \textgreater invalid in math mode on input line 577.
+
+
+LaTeX Warning: Command \textgreater invalid in math mode on input line 577.
+
+
+LaTeX Warning: Command \textgreater invalid in math mode on input line 577.
+
+
+Overfull \hbox (2.13484pt too wide) in paragraph at lines 581--599
+[][] 
+ []
+
+<./imgs/missedAndDamagePerYear.png, id=58, 702.625pt x 501.875pt>
+File: ./imgs/missedAndDamagePerYear.png Graphic file (type png)
+
+<use ./imgs/missedAndDamagePerYear.png>
+Package pdftex.def Info: ./imgs/missedAndDamagePerYear.png used on input line 6
+52.
+(pdftex.def)             Requested size: 271.01349pt x 193.58621pt.
+
+Overfull \hbox (32.04932pt too wide) in paragraph at lines 652--654
+[][] 
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<./imgs/occStats.png, id=59, 702.625pt x 501.875pt>
+File: ./imgs/occStats.png Graphic file (type png)
+ <use ./imgs/occStats.png>
+Package pdftex.def Info: ./imgs/occStats.png used on input line 662.
+(pdftex.def)             Requested size: 271.01349pt x 193.58621pt.
+
+Overfull \hbox (32.04932pt too wide) in paragraph at lines 662--663
+[][] 
+ []
+
+[9] <./imgs/occStatsFound.png, id=63, 702.625pt x 501.875pt>
+File: ./imgs/occStatsFound.png Graphic file (type png)
+
+<use ./imgs/occStatsFound.png>
+Package pdftex.def Info: ./imgs/occStatsFound.png used on input line 668.
+(pdftex.def)             Requested size: 271.01349pt x 193.58621pt.
+
+Overfull \hbox (32.04932pt too wide) in paragraph at lines 668--669
+[][] 
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+LaTeX Warning: Command \textgreater invalid in math mode on input line 679.
+
+
+LaTeX Warning: Command \textgreater invalid in math mode on input line 679.
+
+<./imgs/fileTypes.png, id=64, 752.8125pt x 501.875pt>
+File: ./imgs/fileTypes.png Graphic file (type png)
+
+<use ./imgs/fileTypes.png>
+Package pdftex.def Info: ./imgs/fileTypes.png used on input line 685.
+(pdftex.def)             Requested size: 271.01349pt x 180.68251pt.
+
+Overfull \hbox (32.04932pt too wide) in paragraph at lines 685--688
+[][] 
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Underfull \hbox (badness 1087) in paragraph at lines 697--697
+\OT1/cmr/m/n/8.5 archiv-ing util-ity at $\OT1/cmtt/m/n/8.5 http : / / archive .
+ org / web/$ \OT1/cmr/m/n/8.5 un-der the
+ []
+
+[10 <./imgs/missedAndDamagePerYear.png (PNG copy)> <./imgs/occStats.png> <./img
+s/occStatsFound.png>]
+<./imgs/MissedAndDamagePerYear_webcite.png, id=70, 702.625pt x 501.875pt>
+File: ./imgs/MissedAndDamagePerYear_webcite.png Graphic file (type png)
+
+<use ./imgs/MissedAndDamagePerYear_webcite.png>
+Package pdftex.def Info: ./imgs/MissedAndDamagePerYear_webcite.png used on inpu
+t line 706.
+(pdftex.def)             Requested size: 271.01349pt x 193.58621pt.
+
+Overfull \hbox (32.04932pt too wide) in paragraph at lines 706--708
+[][] 
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<./imgs/OccStats_webcite.png, id=71, 702.625pt x 501.875pt>
+File: ./imgs/OccStats_webcite.png Graphic file (type png)
+
+<use ./imgs/OccStats_webcite.png>
+Package pdftex.def Info: ./imgs/OccStats_webcite.png used on input line 715.
+(pdftex.def)             Requested size: 271.01349pt x 193.58621pt.
+
+Overfull \hbox (32.04932pt too wide) in paragraph at lines 715--716
+[][] 
+ []
+
+<./imgs/OccStatsFound_webcite.png, id=72, 702.625pt x 501.875pt>
+File: ./imgs/OccStatsFound_webcite.png Graphic file (type png)
+
+<use ./imgs/OccStatsFound_webcite.png>
+Package pdftex.def Info: ./imgs/OccStatsFound_webcite.png used on input line 72
+2.
+(pdftex.def)             Requested size: 271.01349pt x 193.58621pt.
+
+Overfull \hbox (32.04932pt too wide) in paragraph at lines 722--723
+[][] 
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[11 <./imgs/fileTypes.png> <./imgs/MissedAndDamagePerYear_webcite.png (PNG copy
+)> <./imgs/OccStats_webcite.png>]
+<./imgs/FileTypes_webcite.png, id=78, 752.8125pt x 501.875pt>
+File: ./imgs/FileTypes_webcite.png Graphic file (type png)
+
+<use ./imgs/FileTypes_webcite.png>
+Package pdftex.def Info: ./imgs/FileTypes_webcite.png used on input line 738.
+(pdftex.def)             Requested size: 271.01349pt x 180.68251pt.
+
+Overfull \hbox (32.04932pt too wide) in paragraph at lines 738--741
+[][] 
+ []
+
+
+Underfull \vbox (badness 5133) has occurred while \output is active []
+
+
+Overfull \hbox (8.41348pt too wide) in paragraph at lines 758--759
+\OT1/cmr/m/n/10 to crawl fron-tiers (most re-cently, Google [[]]). Even though
+ []
+
+[12 <./imgs/OccStatsFound_webcite.png> <./imgs/FileTypes_webcite.png>]
+Overfull \hbox (2.8696pt too wide) in paragraph at lines 764--765
+\OT1/cmr/m/n/10 We sam-pled 50 URI-Rs by ran-domly gen-er-at-ing bily.com
+ []
+
+
+Overfull \hbox (3.45291pt too wide) in paragraph at lines 770--771
+\OT1/cmr/m/n/10 duce the qual-ity of me-men-tos due to tra-di-tional crawlers'
+ []
+
+<./imgs/atHisto.png, id=84, 501.875pt x 501.875pt>
+File: ./imgs/atHisto.png Graphic file (type png)
+ <use ./imgs/atHisto.png>
+Package pdftex.def Info: ./imgs/atHisto.png used on input line 785.
+(pdftex.def)             Requested size: 271.01349pt x 271.02377pt.
+
+Overfull \hbox (32.04932pt too wide) in paragraph at lines 785--786
+[][] 
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Overfull \hbox (0.95293pt too wide) in paragraph at lines 790--791
+\OT1/cmr/m/n/10 delta in-di-cates that Ar-chive.today cre-ates higher fi-delity
+
+ []
+
+[13] <./imgs/wcHisto.png, id=89, 501.875pt x 501.875pt>
+File: ./imgs/wcHisto.png Graphic file (type png)
+
+<use ./imgs/wcHisto.png>
+Package pdftex.def Info: ./imgs/wcHisto.png used on input line 793.
+(pdftex.def)             Requested size: 271.01349pt x 271.02377pt.
+
+Overfull \hbox (32.04932pt too wide) in paragraph at lines 793--794
+[][] 
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+LaTeX Warning: Command \textgreater invalid in math mode on input line 803.
+
+
+LaTeX Warning: Command \textgreater invalid in math mode on input line 803.
+
+
+Overfull \hbox (2.75845pt too wide) in paragraph at lines 807--808
+[]\OT1/cmr/m/n/10 Page-at-a-time archivers per-form dif-fer-ently than the
+ []
+
+
+Overfull \hbox (1.36955pt too wide) in paragraph at lines 809--810
+[]\OT1/cmr/m/n/10 We also demon-strate that JavaScript-dependent rep-
+ []
+
+
+LaTeX Warning: Command \textgreater invalid in math mode on input line 811.
+
+
+LaTeX Warning: Command \textgreater invalid in math mode on input line 811.
+
+
+Overfull \hbox (5.95403pt too wide) in paragraph at lines 811--812
+\OT1/cmr/m/n/10 for-mance and the qual-ity of their me-men-tos. The archives
+ []
+
+[14 <./imgs/atHisto.png> <./imgs/wcHisto.png>] (./damage_ijdl_v2.bbl
+Missing character: There is no Ã in font cmr10!
+Missing character: There is no § in font cmr10!
+
+Underfull \hbox (badness 1990) in paragraph at lines 32--37
+\OT1/cmr/m/n/10 Pro-ceed-ings of the 11th An-nual In-ter-na-tional
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 39--43
+[]\OT1/cmr/m/n/10 Brunelle, J.F.: Google and Java-Script.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 39--43
+\OT1/cmtt/m/n/10 http : / / ws-[]dl . blogspot . com / 2014 / 06 /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 39--43
+\OT1/cmtt/m/n/10 2014-[]06-[]18-[]google-[]and-[]javascript . html$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 87--91
+[]\OT1/cmr/m/n/10 Jack, P.: Ex-trac-torhtml extract-javascript.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 87--91
+\OT1/cmtt/m/n/10 https : / / webarchive . jira . com / wiki / display /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 87--91
+\OT1/cmtt/m/n/10 Heritrix / ExtractorHTML + extract-[]javascript$
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [15]
+Underfull \hbox (badness 1259) in paragraph at lines 122--125
+[]\OT1/cmr/m/n/10 Negulescu, K.C.: Web Archiv-ing @ the In-ter-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 122--125
+\OT1/cmr/m/n/10 Preser-va-tion Part-ners Meet-ing, 2010 $\OT1/cmtt/m/n/10 http 
+:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 122--125
+\OT1/cmtt/m/n/10 / / www . digitalpreservation . gov / meetings /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 127--131
+[]\OT1/cmr/m/n/10 Nelson, M.L.: 2014-07-14: ``Re-fresh''
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 127--131
+\OT1/cmr/m/n/10 For Zom-bies, Time Jumps.  $\OT1/cmtt/m/n/10 http :
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 127--131
+\OT1/cmtt/m/n/10 / / ws-[]dl . blogspot . com / 2014 / 07 /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 127--131
+\OT1/cmtt/m/n/10 2014-[]07-[]14-[]refresh-[]for-[]zombies-[]time . html$
+ []
+
+
+Underfull \hbox (badness 1831) in paragraph at lines 133--135
+[]\OT1/cmr/m/n/10 PhantomJS: Phan-tomJS.  $\OT1/cmtt/m/n/10 http : / / phantomj
+s .
+ []
+
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no “ in font cmr10!
+Missing character: There is no Ã in font cmr10!
+Missing character: There is no ° in font cmr10!
+
+Underfull \hbox (badness 1460) in paragraph at lines 156--159
+[]\OT1/cmr/m/n/10 Sigursson, K.: In-cre-men-tal crawl-ing with Her-
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \hbox (badness 1472) in paragraph at lines 190--193
+\OT1/cmr/m/n/10 In: Pro-ceed-ings of the 7th In-ter-na-tional Web
+ []
+
+
+Underfull \hbox (badness 1147) in paragraph at lines 195--200
+\OT1/cmr/m/n/10 ento: Time Travel for the Web.  Tech. Rep.
+ []
+
+
+Underfull \hbox (badness 1242) in paragraph at lines 195--200
+\OT1/cmr/m/n/10 arXiv:0911.1112, Los Alamos Na-tional Lab-o-ra-
+ []
+
+) [16] (./damage_ijdl_v2.aux) ) 
+Here is how much of TeX's memory you used:
+ 12496 strings out of 494985
+ 220247 string characters out of 6180356
+ 290433 words of memory out of 5000000
+ 15472 multiletter control sequences out of 15000+600000
+ 12208 words of font info for 48 fonts, out of 8000000 for 9000
+ 50 hyphenation exceptions out of 8191
+ 45i,14n,37p,10456b,437s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/share/texlive/texmf-dist/fonts/type1/publi
+c/amsfonts/cm/cmbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsf
+onts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/c
+m/cmbx8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex1
+0.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb>
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb></usr/s
+hare/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/share/te
+xlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texlive/t
+exmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-di
+st/fonts/type1/public/amsfonts/cm/cmr5.pfb></usr/share/texlive/texmf-dist/fonts
+/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texlive/texmf-dist/fonts/type1/p
+ublic/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/am
+sfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts
+/cm/cmsy7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmt
+i10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti8.pfb
+></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr
+/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt8.pfb>
+Output written on damage_ijdl_v2.pdf (16 pages, 2267771 bytes).
+PDF statistics:
+ 158 PDF objects out of 1000 (max. 8388607)
+ 92 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 96 words of extra memory for PDF output out of 10000 (max. 10000000)
+

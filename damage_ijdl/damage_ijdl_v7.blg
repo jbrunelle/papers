@@ -1,0 +1,48 @@
+This is BibTeX, Version 0.99d (TeX Live 2013/Debian)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: damage_ijdl_v7.aux
+The style file: spmpsci.bst
+Database file #1: _mybibtex.bib
+Warning--empty year in ijdl
+You've used 39 entries,
+            2946 wiz_defined-function locations,
+            841 strings with 12300 characters,
+and the built_in function-call counts, 26987 in all, are:
+= -- 3087
+> -- 548
+< -- 16
++ -- 331
+- -- 188
+* -- 1129
+:= -- 2745
+add.period$ -- 62
+call.type$ -- 39
+change.case$ -- 249
+chr.to.int$ -- 0
+cite$ -- 40
+duplicate$ -- 2936
+empty$ -- 1901
+format.name$ -- 214
+if$ -- 5774
+int.to.chr$ -- 0
+int.to.str$ -- 39
+missing$ -- 340
+newline$ -- 184
+num.names$ -- 78
+pop$ -- 1076
+preamble$ -- 1
+purify$ -- 172
+quote$ -- 0
+skip$ -- 1579
+stack$ -- 0
+substring$ -- 1164
+swap$ -- 2308
+text.length$ -- 16
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 156
+warning$ -- 1
+while$ -- 148
+width$ -- 41
+write$ -- 425
+(There was 1 warning)

@@ -1,0 +1,321 @@
+\begin{thebibliography}{10}
+
+\bibitem{hmotwia}
+S.~Ainsworth, A.~Alsum, H.~SalahEldeen, M.~C. Weigle, and M.~L. Nelson.
+\newblock {How much of the Web is archived?}
+\newblock In {\em {Proceedings of the 2011 ACM/IEEE Joint Conference on Digital
+  Libraries}}, pages 133--136, 2011.
+
+\bibitem{ainsworthFramework}
+S.~Ainsworth, M.~L. Nelson, and H.~V. de~Sompel.
+\newblock A framework for evaluation of composite memento temporal coherence.
+\newblock Technical Report arXiv:1402.0928, arXiv, 2014.
+
+\bibitem{archivetoday}
+{Archive.is}.
+\newblock Archive.is.
+\newblock \url{http://archive.is/}, 2013.
+
+\bibitem{ipresArchivability}
+V.~Banos, K.~Yunhyong, S.~Ross, and Y.~Manolopoulos.
+\newblock {CLEAR: a credible method to evaluate website archivability}.
+\newblock In {\em Proceedings of the 9th International Conference on
+  Preservation of Digital Objects}, 2013.
+
+\bibitem{saad2011}
+M.~{Ben Saad} and S.~Gançarski.
+\newblock Archiving the web using page changes patterns: A case study.
+\newblock In {\em {Proceedings of the 2011 ACM/IEEE Joint Conference on Digital
+  Libraries}}, pages 113--122, 2011.
+
+\bibitem{csm}
+A.~Bright.
+\newblock {Web evidence points to pro-Russia rebels in downing of MH17}.
+\newblock
+  \url{http://www.csmonitor.com/World/Europe/2014/0717/Web-evidence-points-to-pro-Russia-rebels}
+  \url{-in-downing-of-MH17-video}, 2014.
+
+\bibitem{brunelleSopa}
+J.~F. Brunelle.
+\newblock {Replaying the SOPA Protest}.
+\newblock
+  \url{http://ws-dl.blogspot.com/2013/11/2013-11-28-replaying-sopa-protest.html},
+  November 2013.
+
+\bibitem{googleJS}
+J.~F. Brunelle.
+\newblock {Google and JavaScript}.
+\newblock
+  \url{http://ws-dl.blogspot.com/2014/06/2014-06-18-google-and-javascript.html},
+  2014.
+
+\bibitem{seleniumpjs}
+J.~F. Brunelle.
+\newblock {PhantomJS+VisualEvent or Selenium for Web Archiving?}
+\newblock
+  \url{http://ws-dl.blogspot.com/2015/06/2015-06-26-phantomjsvisualevent-or.html},
+  2015.
+
+\bibitem{brunelleDamage}
+J.~F. Brunelle, M.~Kelly, H.~SalahEldeen, M.~C. Weigle, and M.~L. Nelson.
+\newblock {Not All Mementos Are Created Equal: Measuring The Impact Of Missing
+  Resources}.
+\newblock In {\em {Proceedings of the 14th Annual Joint Conference on Digital
+  Libraries}}, pages 321 -- 330, 2014.
+
+\bibitem{damageIJDL}
+J.~F. Brunelle, M.~Kelly, H.~SalahEldeen, M.~C. Weigle, and M.~L. Nelson.
+\newblock {Not All Mementos Are Created Equal: Measuring The Impact Of Missing
+  Resources}.
+\newblock {\em International Journal of Digital Libraries}, 16(3):283--301,
+  2015.
+
+\bibitem{ijdl}
+J.~F. Brunelle, M.~Kelly, M.~C. Weigle, and M.~L. Nelson.
+\newblock {The Impact of JavaScript on Archivability}.
+\newblock {\em International Journal on Digital Libraries}, pages 1--23, 2015.
+
+\bibitem{zombies}
+J.~F. Brunelle and M.~L. Nelson.
+\newblock Zombies in the archives.
+\newblock
+  \url{http://ws-dl.blogspot.com/2012/10/2012-10-10-zombies-in-archives.html},
+  2012.
+
+\bibitem{crawlingDeferred}
+J.~F. Brunelle, M.~C. Weigle, and M.~L. Nelson.
+\newblock {Archiving Deferred Representations Using a Two-Tiered Crawling
+  Approach}.
+\newblock In {\em {Proceedings of iPRES 2015}}, 2015.
+
+\bibitem{Denev:2009:SFQ:1687627.1687694}
+D.~Denev, A.~Mazeika, M.~Spaniol, and G.~Weikum.
+\newblock {SHARC: framework for quality-conscious web archiving}.
+\newblock {\em Proceedings of the 35th International Conference on Very Large
+  Data Bases}, 2:586--597, August 2009.
+
+\bibitem{dincturkAjax}
+M.~E. Dincturk, G.-V. Jourdan, G.~V. Bochmann, and I.~V. Onut.
+\newblock {A Model-Based Approach for Crawling Rich Internet Applications}.
+\newblock {\em ACM Transactions on the Web}, 8(3):19:1--19:39, July 2014.
+
+\bibitem{sopapost}
+D.~A. Fahrenthold.
+\newblock {SOPA protests shut down Web sites}.
+\newblock
+  \url{http://www.washingtonpost.com/politics/sopa-protests-to-shut-down-web-sites/2012/01/17/gIQA4WYl6P_story.html},
+  January 2012.
+
+\bibitem{Fielding:2002:PDM:514183.514185}
+R.~T. Fielding and R.~N. Taylor.
+\newblock Principled design of the modern web architecture.
+\newblock {\em ACM Transactions on Internet Technology}, 2:115--150, May 2002.
+
+\bibitem{mementoQuality}
+G.~Gray and S.~Martin.
+\newblock Choosing a sustainable web archiving method: A comparison of capture
+  quality.
+\newblock {\em D-Lib Magazine}, 19(5), May 2013.
+
+\bibitem{warcrevision}
+{IIPC}.
+\newblock {Minutes of the WARC revision workshop}.
+\newblock
+  \url{http://iipc.github.io/warc-specifications/specifications/warc-format/meetings/2015-05-01-IIPC-GA-WARC-Meeting-Minutes/},
+  2015.
+
+\bibitem{warcTargets}
+{IIPC}.
+\newblock {Proposal for Standardizing the Recording Rendered Targets}.
+\newblock
+  \url{http://nlevitt.github.io/warc-specifications/specifications/warc-rendered-targets/recording-screenshots.html},
+  2015.
+
+\bibitem{htrixJS}
+P.~Jack.
+\newblock Extractorhtml extract-javascript.
+\newblock
+  \url{https://webarchive.jira.com/wiki/display/Heritrix/ExtractorHTML+extract-javascript},
+  2014.
+
+\bibitem{jacksonSopa}
+A.~Jackson.
+\newblock {Archiving the Dynamic Web}.
+\newblock
+  \url{http://web.archive.org/web/20150217044640/http://anjackson.github.io/keeping-codes/practice/archiving-the-dynamic-web.html},
+  2013.
+
+\bibitem{idReps}
+M.~Kelly, J.~F. Brunelle, M.~C. Weigle, and M.~L. Nelson.
+\newblock A method for identifying dynamic representations in the archives.
+\newblock {\em D-Lib Magazine}, 19(11/12), November/December 2013.
+
+\bibitem{kellyTPDL2013}
+M.~Kelly, J.~F. Brunelle, M.~C. Weigle, and M.~L. Nelson.
+\newblock {On the Change in Archivability of Websites Over Time}.
+\newblock In {\em {Proceedings of the Third international conference on Theory
+  and Practice of Digital Libraries}}, pages 35--47, 2013.
+
+\bibitem{browsertrix}
+I.~Kreymer.
+\newblock {Browsertrix: Browser-Based On-Demand Web Archiving Automation}.
+\newblock \url{https://github.com/ikreymer/browsertrix}, 2015.
+
+\bibitem{webrecorder}
+I.~Kreymer.
+\newblock {Webrecorder.io}.
+\newblock \url{https://webrecorder.io/}, 2015.
+
+\bibitem{lafrance}
+A.~LaFrance.
+\newblock {Raiders of the Lost Web}.
+\newblock
+  \url{http://www.theatlantic.com/technology/archive/2015/10/raiders-of-the-lost-web/409210/},
+  2015.
+
+\bibitem{newyorker}
+J.~Lepore.
+\newblock {The Cobweb: Can the Internet be Archived?}
+\newblock {\em The New Yorker}, January 26, 2015, 2015.
+
+\bibitem{iaSize}
+S.~Merity.
+\newblock {July 2015 Crawl Archive Available}.
+\newblock
+  \url{http://blog.commoncrawl.org/2015/08/july-2015-crawl-archive-available/},
+  2015.
+
+\bibitem{mesbahInferState}
+A.~Mesbah, E.~Bozdag, and A.~van Deursen.
+\newblock Crawling {A}jax by inferring user interface state changes.
+\newblock In {\em Proceedings of the 8th International Conference on Web
+  Engineering}, pages 122 --134, 2008.
+
+\bibitem{mesbah2}
+A.~Mesbah and A.~van Deursen.
+\newblock Migrating multi-page web applications to single-page ajax interfaces.
+\newblock In {\em Proceedings of the 11th European Conference on Software
+  Maintenance and Reengineering}, pages 181--190, 2007.
+
+\bibitem{mesbahTesting}
+A.~Mesbah and A.~van Deursen.
+\newblock Invariant-based automatic testing of {A}jax user interfaces.
+\newblock In {\em Proceedings of the 31st International Conference on Software
+  Engineering}, pages 210--220, 2009.
+
+\bibitem{mesbahCrawling}
+A.~Mesbah, A.~van Deursen, and S.~Lenselink.
+\newblock {Crawling Ajax-Based Web Applications Through Dynamic Analysis of
+  User Interface State Changes}.
+\newblock {\em ACM Transactions on the Web}, 6(1):3:1--3:30, Mar. 2012.
+
+\bibitem{heritrix}
+G.~Mohr, M.~Kimpton, M.~Stack, and I.~Ranitovic.
+\newblock {Introduction to Heritrix, an archival quality web crawler}.
+\newblock In {\em Proceedings of the 4th International Web Archiving Workshop},
+  September 2004.
+
+\bibitem{iawebarchive}
+K.~C. Negulescu.
+\newblock {Web Archiving @ the Internet Archive}.
+\newblock Presentation at the 2010 Digital Preservation Partners Meeting, 2010
+  \url{http://www.digitalpreservation.gov/meetings/documents/ndiipp10/NDIIPP072110FinalIA.ppt}.
+
+\bibitem{futureWeb}
+{NetPreserve.org}.
+\newblock {IIPC Future of the Web Workshop – Introduction \& Overview}.
+\newblock
+  \url{http://netpreserve.org/sites/default/files/resources/OverviewFutureWebWorkshop.pdf},
+  2012.
+
+\bibitem{pjs}
+{PhantomJS}.
+\newblock {PhantomJS}.
+\newblock \url{http://phantomjs.org/}, 2013.
+
+\bibitem{sopaabc}
+N.~Potter.
+\newblock {Wikipedia Blackout: Websites Wikipedia, Reddit, Others Go Dark
+  Wednesday to Protest SOPA, PIPA}.
+\newblock
+  \url{http://abcnews.go.com/Technology/wikipedia-blackout-websites-wikipedia-reddit}\\\url{-dark-wednesday-protest/story?id=15373251},
+  January 2012.
+
+\bibitem{iipc2013}
+D.~S.~H. Rosenthal.
+\newblock {Talk on Harvesting the Future Web at IIPC2013}.
+\newblock
+  \url{http://blog.dshr.org/2013/04/talk-on-harvesting-future-web-at.html},
+  2013.
+
+\bibitem{dshrDlib}
+D.~S.~H. Rosenthal, D.~L. Vargas, T.~A. Lipkis, and C.~T. Griffin.
+\newblock {Enhancing the LOCKSS Digital Preservation Technology}.
+\newblock {\em D-Lib Magazine}, 21(9/10), September/October 2015.
+
+\bibitem{Sigurosson:Incremental-Heritrix}
+K.~Sigurðsson.
+\newblock Incremental crawling with {Heritrix}.
+\newblock In {\em Proceedings of the 5th International Web Archiving Workshop},
+  Sept. 2005.
+
+\bibitem{hyptrails}
+P.~Singer, D.~Helic, A.~Hotho, and M.~Strohmaier.
+\newblock {HypTrails: A Bayesian Approach for Comparing Hypotheses About Human
+  Trails on the Web}.
+\newblock In {\em Proceedings of the 24th International Conference on World
+  Wide Web}, WWW '15, pages 1003--1013, 2015.
+
+\bibitem{spaniol2009data}
+M.~Spaniol, D.~Denev, A.~Mazeika, G.~Weikum, and P.~Senellart.
+\newblock {Data quality in web archiving}.
+\newblock In {\em {Proceedings of the 3rd Workshop on Information Credibility
+  on the Web}}, pages 19--26. ACM, 2009.
+
+\bibitem{spaniol9catch}
+M.~Spaniol, A.~Mazeika, D.~Denev, and G.~Weikum.
+\newblock {Catch me if you can: Visual Analysis of Coherence Defects in Web
+  Archiving}.
+\newblock In {\em {Proceedings of The 9th International Web Archiving
+  Workshop}}, pages 27--37, 2009.
+
+\bibitem{warciso}
+{Technical Committee ISO/TC 46}.
+\newblock {The WARC File Format (ISO 28500)}.
+\newblock
+  \url{http://bibnum.bnf.fr/warc/WARC_ISO_28500_version1_latestdraft.pdf},
+  2008.
+
+\bibitem{waybackarchives2}
+B.~Tofel.
+\newblock {`Wayback' for Accessing Web Archives}.
+\newblock In {\em Proceedings of the 7th International Web Archiving Workshop},
+  2007.
+
+\bibitem{mementorfc}
+H.~{Van de Sompel}, M.~Nelson, and R.~Sanderson.
+\newblock {RFC 7089: HTTP Framework for Time-Based Access to Resoruce States --
+  Memento}.
+\newblock \url{http://www.rfc-editor.org/info/rfc7089}, 2013.
+
+\bibitem{nelson:memento:tr}
+H.~{Van de Sompel}, M.~L. Nelson, R.~Sanderson, L.~L. Balakireva, S.~Ainsworth,
+  and H.~Shankar.
+\newblock {Memento: Time Travel for the Web}.
+\newblock Technical Report arXiv:0911.1112, Los Alamos National Laboratory,
+  2009.
+
+\bibitem{npr}
+E.~Weiner.
+\newblock {Will Future Historians Consider These Days The Digital Dark Ages?}
+\newblock
+  \url{http://www.npr.org/2016/01/04/461878724/will-future-historians-consider-these-times-the-digital-dark-ages},
+  2016.
+
+\bibitem{sopawiki}
+{Wikipedia.com}.
+\newblock {Stop Online Piracy Act}.
+\newblock \url{http://en.wikipedia.org/wiki/Stop_Online_Piracy_Act}, January
+  2012.
+
+\end{thebibliography}

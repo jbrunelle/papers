@@ -1,0 +1,221 @@
+\relax 
+\citation{iawebarchive,waybackarchives2}
+\citation{usingIA,marshalls_social_media_study}
+\citation{yasminLinks}
+\citation{ipresArchivability}
+\citation{nelson:memento:tr}
+\@writefile{toc}{\contentsline {section}{\numberline {1}Introduction}{1}}
+\newlabel{introduction}{{1}{1}}
+\citation{Sigurosson:Incremental-Heritrix,heritrix}
+\citation{wget}
+\citation{pjs}
+\citation{losingmyrevolution,hanyTPDL2013}
+\citation{kellyTPDL2013}
+\@writefile{toc}{\contentsline {section}{\numberline {2}Motivating Examples}{2}}
+\newlabel{example}{{2}{2}}
+\@writefile{toc}{\contentsline {section}{\numberline {3}Related Work}{2}}
+\newlabel{priorwork}{{3}{2}}
+\citation{spaniol9catch,spaniol2009data,Denev:2009:SFQ:1687627.1687694}
+\citation{saad2011,saadIJDL,saadTPDL}
+\citation{mementoQuality}
+\citation{ipresArchivability}
+\citation{Fersini20081431}
+\citation{Singh2009}
+\citation{Yi2003}
+\citation{boilerPlate}
+\newlabel{undamaged}{{1(a)}{3}}
+\newlabel{sub@undamaged}{{(a)}{3}}
+\newlabel{missingBig}{{1(b)}{3}}
+\newlabel{sub@missingBig}{{(b)}{3}}
+\newlabel{missingLittle}{{1(c)}{3}}
+\newlabel{sub@missingLittle}{{(c)}{3}}
+\newlabel{missingflood}{{1(d)}{3}}
+\newlabel{sub@missingflood}{{(d)}{3}}
+\newlabel{missingaldot}{{1(e)}{3}}
+\newlabel{sub@missingaldot}{{(e)}{3}}
+\@writefile{lof}{\contentsline {figure}{\numberline {1}{\ignorespaces Mementos have different meanings and usefulness depending on which embedded resources are missing from the memento (and the proportion of missing resources, $M_m$).}}{3}}
+\@writefile{lof}{\contentsline {subfigure}{\numberline{(a)}{\ignorespaces {All three of the embedded images are included in $m_0$ and identified by the red arrows (\emph {$M_m$=0.17}).}}}{3}}
+\@writefile{lof}{\contentsline {subfigure}{\numberline{(b)}{\ignorespaces {We removed the large, central image (that is the main content of the page) from $m_1$, identified by the red arrow (\emph {$M_m$=0.24}).}}}{3}}
+\@writefile{lof}{\contentsline {subfigure}{\numberline{(c)}{\ignorespaces {We removed the XKCD logo and banner of comics from $m_2$, identified by the red arrows (\emph {$M_m$=0.29}).}}}{3}}
+\@writefile{lof}{\contentsline {subfigure}{\numberline{(d)}{\ignorespaces {This memento (URI-M \url{http://web.archive.org/web/20110116022653/http://www.cityofmoorhead.com/flood/?}) is missing two stylesheets which changes the entire appearance and utility of the memento (\emph {$M_m$=0.38}).}}}{3}}
+\@writefile{lof}{\contentsline {subfigure}{\numberline{(e)}{\ignorespaces {Meanwhile, this memento (URI-M \url{http://web.archive.org/web/20060102083228/http://www.ascc.edu/}) is missing two stylesheets (along with two images) but does not appear damaged (\emph {$M_m$=0.20}).}}}{3}}
+\newlabel{xkcdImgs}{{1}{3}}
+\citation{Zhang200830}
+\citation{rademacher}
+\citation{blockImportance}
+\@writefile{toc}{\contentsline {section}{\numberline {4}Users' Perception of Damage}{4}}
+\newlabel{turk}{{4}{4}}
+\@writefile{lof}{\contentsline {figure}{\numberline {2}{\ignorespaces We asked the turkers to select the less damaged of two mementos. The two versions of the page are accessible in separate tabs.}}{4}}
+\newlabel{turkss}{{2}{4}}
+\@writefile{lot}{\contentsline {table}{\numberline {1}{\ignorespaces The 11 URI-Rs used to create the manually damaged dataset. $M_m$ values are provided for each $m_1$.}}{5}}
+\newlabel{dataset}{{1}{5}}
+\@writefile{lot}{\contentsline {table}{\numberline {2}{\ignorespaces The turkers selected $m_0$ as the preferred memento 81\% of the time, and more consistently for larger {$\Delta M_m$} values.}}{5}}
+\newlabel{m0table}{{2}{5}}
+\@writefile{lot}{\contentsline {table}{\numberline {3}{\ignorespaces Confusion matrix of the turker assessments of the $m_0$ vs $m_1$ comparison test.}}{5}}
+\newlabel{m0cm}{{3}{5}}
+\citation{ijdl}
+\citation{fawcett2006introduction}
+\@writefile{toc}{\contentsline {section}{\numberline {5}Evaluating Organic Damage}{6}}
+\newlabel{turkActual}{{5}{6}}
+\@writefile{lot}{\contentsline {table}{\numberline {4}{\ignorespaces The turker evaluations of the $m_2$ vs $m_3$ comparisons when using $M_m$ as a damage measurement.}}{6}}
+\newlabel{m1table}{{4}{6}}
+\@writefile{lot}{\contentsline {table}{\numberline {5}{\ignorespaces Confusion matrix of the turker assessments of the $m_2$ vs $m_3$ comparison test against $M_m$.}}{6}}
+\newlabel{m1cm}{{5}{6}}
+\@writefile{lot}{\contentsline {table}{\numberline {6}{\ignorespaces When compared to random, $M_m$ performs worse than random selection and is worse than the optimal performance of $m_0$ vs $m_1$.}}{6}}
+\newlabel{auc1}{{6}{6}}
+\@writefile{toc}{\contentsline {section}{\numberline {6}Calculating Memento Damage}{7}}
+\newlabel{damage}{{6}{7}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {6.1}Defining $D_m$}{7}}
+\newlabel{damageeqn}{{1}{7}}
+\newlabel{resources}{{2}{7}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {6.2}Weighting Embedded Resources}{7}}
+\newlabel{potentialdamage}{{3}{7}}
+\newlabel{actualdamage}{{4}{7}}
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {6.2.1}Image Damage Calculation}{7}}
+\newlabel{imagedamage}{{5}{7}}
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {6.2.2}Stylesheet Damage Calculation}{8}}
+\newlabel{cssdamage}{{6}{8}}
+\newlabel{withcss2}{{3(a)}{8}}
+\newlabel{sub@withcss2}{{(a)}{8}}
+\newlabel{withoutcss2}{{3(b)}{8}}
+\newlabel{sub@withoutcss2}{{(b)}{8}}
+\newlabel{pilotexample2}{{6.2.2}{8}}
+\@writefile{lof}{\contentsline {figure}{\numberline {3}{\ignorespaces Missing stylesheets causes content to shift left. We show the percent of content in the vertical partitions of the viewport.}}{8}}
+\@writefile{lof}{\contentsline {subfigure}{\numberline{(a)}{\ignorespaces {We calculated that the non-background color is more evenly distributed between the three vertical partitions of the Pilot Online page with its stylesheet included than when it is missing.}}}{8}}
+\@writefile{lof}{\contentsline {subfigure}{\numberline{(b)}{\ignorespaces {We calculated that the non-background color is most prevalent in the left-most vertical partition of the viewport of the Pilot Online page when it is missing its stylesheet.}}}{8}}
+\newlabel{withcss}{{4(a)}{9}}
+\newlabel{sub@withcss}{{(a)}{9}}
+\newlabel{withoutcss}{{4(b)}{9}}
+\newlabel{sub@withoutcss}{{(b)}{9}}
+\newlabel{full}{{6.2.2}{9}}
+\@writefile{lof}{\contentsline {figure}{\numberline {4}{\ignorespaces Missing stylesheets causes content to shift left.We show the percent of content in the vertical partitions of the page.}}{9}}
+\@writefile{lof}{\contentsline {subfigure}{\numberline{(a)}{\ignorespaces {When considering the entire page, the content of the page is distributed 33\% in the left, 26\% in the middle, and 41\% in the right partitions when the stylesheet is present.}}}{9}}
+\@writefile{lof}{\contentsline {subfigure}{\numberline{(b)}{\ignorespaces {When considering the entire page, the content of the page is distributed 84\% in the left, 15\% in the middle, and 1\% in the right partitions when the stylesheet is missing.}}}{9}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {6.3}The $D_m$ Algorithm}{9}}
+\@writefile{lot}{\contentsline {table}{\numberline {7}{\ignorespaces $D_m$ vs $M_m$ for the images in Figure 1\hbox {}. Note $M_m \textgreater D_m$ in 2 of 5 cases.}}{9}}
+\newlabel{damageTable}{{7}{9}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {6.4}Limitations of $D_m$ Calculation}{9}}
+\@writefile{lot}{\contentsline {table}{\numberline {8}{\ignorespaces The turker evaluations of the $m_2$ vs $m_3$ comparisons when using $D_m$ as a damage measurement.}}{10}}
+\newlabel{m2table}{{8}{10}}
+\@writefile{lot}{\contentsline {table}{\numberline {9}{\ignorespaces Confusion matrix of the turker assessments of the $m_2$ vs $m_3$ comparison test against $D_m$.}}{10}}
+\newlabel{m2cm}{{9}{10}}
+\@writefile{toc}{\contentsline {section}{\numberline {7}Damage in the Archives}{10}}
+\newlabel{eval}{{7}{10}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {7.1}Turker Assessment of $D_m$}{10}}
+\newlabel{turkerDm}{{7.1}{10}}
+\@writefile{lot}{\contentsline {table}{\numberline {10}{\ignorespaces $D_m$ provides a closer estimate of turker perception of damage and our optimal performance of $m_0$ vs $m_1$ than $M_m$.}}{10}}
+\newlabel{auc2}{{10}{10}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {7.2}Measuring the Internet Archive}{10}}
+\newlabel{missing}{{7.2}{10}}
+\@writefile{lof}{\contentsline {figure}{\numberline {5}{\ignorespaces The average embedded resources missed per memento per year as compared to damage per memento per year ($\overline  {D_m}$=0.128, $\overline  {M_m}$=0.132).}}{10}}
+\newlabel{missingByYear}{{5}{10}}
+\newlabel{missingDistroHist}{{6(a)}{11}}
+\newlabel{sub@missingDistroHist}{{(a)}{11}}
+\newlabel{missingDistroCdf}{{6(b)}{11}}
+\newlabel{sub@missingDistroCdf}{{(b)}{11}}
+\newlabel{missingDistro}{{7.2}{11}}
+\@writefile{lof}{\contentsline {figure}{\numberline {6}{\ignorespaces The distribution of the number of missing embedded resources per URI-M.}}{11}}
+\@writefile{lof}{\contentsline {subfigure}{\numberline{(a)}{\ignorespaces {Occurrences of missing embedded resource numbers as a histogram.}}}{11}}
+\@writefile{lof}{\contentsline {subfigure}{\numberline{(b)}{\ignorespaces {Distribution of missing embedded resources within the collection of mementos as a CDF.}}}{11}}
+\newlabel{foundDistroHist}{{7(a)}{11}}
+\newlabel{sub@foundDistroHist}{{(a)}{11}}
+\newlabel{foundDistroCdf}{{7(b)}{11}}
+\newlabel{sub@foundDistroCdf}{{(b)}{11}}
+\newlabel{foundDistro}{{7.2}{11}}
+\@writefile{lof}{\contentsline {figure}{\numberline {7}{\ignorespaces The number of successfully dereferenced resources is more evenly distributed than those missing (Figure 7.2\hbox {}).}}{11}}
+\@writefile{lof}{\contentsline {subfigure}{\numberline{(a)}{\ignorespaces {Occurrences of successfully dereferenced embedded resource numbers as a histogram.}}}{11}}
+\@writefile{lof}{\contentsline {subfigure}{\numberline{(b)}{\ignorespaces {Distribution of successfully dereferenced embedded resources within the collection of mementos as a CDF.}}}{11}}
+\citation{webcite}
+\citation{savePage}
+\citation{temporalCoherence}
+\@writefile{lof}{\contentsline {figure}{\numberline {8}{\ignorespaces The number of missed embedded resources per memento per year and MIME type. }}{12}}
+\newlabel{occstats}{{8}{12}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {7.3}Measuring WebCite}{12}}
+\newlabel{webcite}{{7.3}{12}}
+\@writefile{lof}{\contentsline {figure}{\numberline {9}{\ignorespaces The average embedded resources missed per memento per year as compared to damage per memento per year ($\overline  {D_m}$=0.397, $\overline  {M_m}$=0.176).}}{12}}
+\newlabel{missingByYearWC}{{9}{12}}
+\citation{ijdl}
+\newlabel{missingDistroWCHisto}{{10(a)}{13}}
+\newlabel{sub@missingDistroWCHisto}{{(a)}{13}}
+\newlabel{missingDistroWCCdf}{{10(b)}{13}}
+\newlabel{sub@missingDistroWCCdf}{{(b)}{13}}
+\newlabel{missingDistroWC}{{7.3}{13}}
+\@writefile{lof}{\contentsline {figure}{\numberline {10}{\ignorespaces The distribution of the number of missing embedded resources per URI-M in WebCite.}}{13}}
+\@writefile{lof}{\contentsline {subfigure}{\numberline{(a)}{\ignorespaces {Occurrences of missing embedded resource numbers in WebCite as a histogram.}}}{13}}
+\@writefile{lof}{\contentsline {subfigure}{\numberline{(b)}{\ignorespaces {Distribution of missing embedded resources within the collection of WebCite mementos as a CDF.}}}{13}}
+\newlabel{foundDistroWCHisto}{{11(a)}{13}}
+\newlabel{sub@foundDistroWCHisto}{{(a)}{13}}
+\newlabel{foundDistroWCCdf}{{11(b)}{13}}
+\newlabel{sub@foundDistroWCCdf}{{(b)}{13}}
+\newlabel{foundDistroWC}{{7.3}{13}}
+\@writefile{lof}{\contentsline {figure}{\numberline {11}{\ignorespaces The distribution of the number of successfully dereferenced embedded resources per URI-M in WebCite.}}{13}}
+\@writefile{lof}{\contentsline {subfigure}{\numberline{(a)}{\ignorespaces {Occurrences of successfully derefernced embedded resource numbers in WebCite as a histogram.}}}{13}}
+\@writefile{lof}{\contentsline {subfigure}{\numberline{(b)}{\ignorespaces {Distribution of successfully derefernced embedded resources within the collection of WebCite mementos as a CDF.}}}{13}}
+\@writefile{toc}{\contentsline {section}{\numberline {8}Impact of JavaScript on Damage}{13}}
+\newlabel{wcjs}{{8}{13}}
+\citation{htrixJS}
+\citation{googleJS}
+\citation{archivetoday}
+\citation{zombies,archiveisblog}
+\citation{refreshZombies}
+\@writefile{lof}{\contentsline {figure}{\numberline {12}{\ignorespaces The number of missed embedded resources per WebCite memento per year and MIME type. }}{14}}
+\newlabel{occstatsWC}{{12}{14}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {8.1}PhantomJS vs Heritrix}{14}}
+\newlabel{pjsvhtrix}{{8.1}{14}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {8.2}Crawling Deferred Representations}{14}}
+\newlabel{crawlDeferred}{{8.2}{14}}
+\@writefile{toc}{\contentsline {section}{\numberline {9}Measuring Archive.today}{14}}
+\newlabel{archivetoday}{{9}{14}}
+\newlabel{atHisto}{{13(a)}{15}}
+\newlabel{sub@atHisto}{{(a)}{15}}
+\newlabel{wcHisto}{{13(b)}{15}}
+\newlabel{sub@wcHisto}{{(b)}{15}}
+\newlabel{deltaHisto}{{9}{15}}
+\@writefile{lof}{\contentsline {figure}{\numberline {13}{\ignorespaces The $\Delta _m$ measurements of Archive.today and WebCite indicate that Archive.today creates higher fidelity mementos than WebCite.}}{15}}
+\@writefile{lof}{\contentsline {subfigure}{\numberline{(a)}{\ignorespaces {Histogram of the memento vs live resource $\Delta _m$ in Archive.today.}}}{15}}
+\@writefile{lof}{\contentsline {subfigure}{\numberline{(b)}{\ignorespaces {Histogram of the memento vs live resource $\Delta _m$ in WebCite.}}}{15}}
+\@writefile{toc}{\contentsline {section}{\numberline {10}Conclusions}{15}}
+\newlabel{conclusion}{{10}{15}}
+\bibstyle{spmpsci}
+\bibdata{_mybibtex}
+\bibcite{temporalCoherence}{{1}{}{{}}{{}}}
+\bibcite{yasminLinks}{{2}{}{{}}{{}}}
+\@writefile{toc}{\contentsline {section}{\numberline {11}Acknowledgments}{16}}
+\bibcite{archivetoday}{{3}{}{{}}{{}}}
+\bibcite{ipresArchivability}{{4}{}{{}}{{}}}
+\bibcite{saad2011}{{5}{}{{}}{{}}}
+\bibcite{saadIJDL}{{6}{}{{}}{{}}}
+\bibcite{saadTPDL}{{7}{}{{}}{{}}}
+\bibcite{googleJS}{{8}{}{{}}{{}}}
+\bibcite{ijdl}{{9}{}{{}}{{}}}
+\bibcite{zombies}{{10}{}{{}}{{}}}
+\bibcite{Denev:2009:SFQ:1687627.1687694}{{11}{}{{}}{{}}}
+\bibcite{webcite}{{12}{}{{}}{{}}}
+\bibcite{fawcett2006introduction}{{13}{}{{}}{{}}}
+\bibcite{Fersini20081431}{{14}{}{{}}{{}}}
+\bibcite{wget}{{15}{}{{}}{{}}}
+\bibcite{mementoQuality}{{16}{}{{}}{{}}}
+\bibcite{usingIA}{{17}{}{{}}{{}}}
+\bibcite{htrixJS}{{18}{}{{}}{{}}}
+\bibcite{kellyTPDL2013}{{19}{}{{}}{{}}}
+\bibcite{boilerPlate}{{20}{}{{}}{{}}}
+\bibcite{marshalls_social_media_study}{{21}{}{{}}{{}}}
+\bibcite{heritrix}{{22}{}{{}}{{}}}
+\bibcite{iawebarchive}{{23}{}{{}}{{}}}
+\bibcite{archiveisblog}{{24}{}{{}}{{}}}
+\bibcite{refreshZombies}{{25}{}{{}}{{}}}
+\bibcite{pjs}{{26}{}{{}}{{}}}
+\bibcite{rademacher}{{27}{}{{}}{{}}}
+\bibcite{savePage}{{28}{}{{}}{{}}}
+\bibcite{losingmyrevolution}{{29}{}{{}}{{}}}
+\bibcite{hanyTPDL2013}{{30}{}{{}}{{}}}
+\bibcite{Sigurosson:Incremental-Heritrix}{{31}{}{{}}{{}}}
+\bibcite{Singh2009}{{32}{}{{}}{{}}}
+\bibcite{blockImportance}{{33}{}{{}}{{}}}
+\bibcite{spaniol2009data}{{34}{}{{}}{{}}}
+\bibcite{spaniol9catch}{{35}{}{{}}{{}}}
+\bibcite{waybackarchives2}{{36}{}{{}}{{}}}
+\bibcite{nelson:memento:tr}{{37}{}{{}}{{}}}
+\bibcite{Yi2003}{{38}{}{{}}{{}}}
+\bibcite{Zhang200830}{{39}{}{{}}{{}}}
+\providecommand\NAT@force@numbers{}\NAT@force@numbers

@@ -1,0 +1,54 @@
+This is BibTeX, Version 0.99d (TeX Live 2013/Debian)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: clientSideState_tr_v1.0.aux
+The style file: abbrv.bst
+Database file #1: _mybibtex.bib
+You're missing a field name---line 1042 of file _mybibtex.bib
+ :     
+ :     %    note = {(Also available as arXiv:1003.3661)},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+Warning--entry type for "mementorfc" isn't style-file defined
+--line 7266 of file _mybibtex.bib
+You've used 51 entries,
+            2118 wiz_defined-function locations,
+            762 strings with 12762 characters,
+and the built_in function-call counts, 15639 in all, are:
+= -- 1500
+> -- 718
+< -- 13
++ -- 289
+- -- 236
+* -- 889
+:= -- 2536
+add.period$ -- 154
+call.type$ -- 51
+change.case$ -- 271
+chr.to.int$ -- 0
+cite$ -- 51
+duplicate$ -- 597
+empty$ -- 1343
+format.name$ -- 236
+if$ -- 3379
+int.to.chr$ -- 0
+int.to.str$ -- 51
+missing$ -- 25
+newline$ -- 258
+num.names$ -- 102
+pop$ -- 395
+preamble$ -- 1
+purify$ -- 220
+quote$ -- 0
+skip$ -- 498
+stack$ -- 0
+substring$ -- 718
+swap$ -- 161
+text.length$ -- 13
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 204
+warning$ -- 0
+while$ -- 142
+width$ -- 53
+write$ -- 535
+(There was 1 error message)

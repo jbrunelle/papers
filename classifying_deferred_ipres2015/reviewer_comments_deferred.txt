@@ -1,0 +1,75 @@
+----------------------- REVIEW 1 ---------------------
+PAPER: 6
+TITLE: Archiving Deferred Representations Using a Two-Tiered Crawling Approach
+AUTHORS: Justin Brunelle, Michele Weigle and Michael Nelson
+
+OVERALL EVALUATION: 1 (weak accept)
+REVIEWER'S CONFIDENCE: 3 (medium)
+
+----------- REVIEW -----------
+The paper presents a new approach for optimizing the crawling in web
+archiving. It relies on a simple,pragmatic idea : some pages are
+simple enough to be captured by fast crawlers that do not render the
+page, some others, called deferred representations, require rendering
+so that the relevant information (including links to other pages of
+interest in order to increase the frontier of the archive). Thus,
+authors propose, through ML techniques, to learn which kind of crawler
+(fast or rendering) should be use for a given page, based on 12
+features.
+
+The paper is interesting, quite readable and results seem to be
+promising. However, the paper should be restructured so that the first
+part, which demonstrates an obvious, expected, result (rendering a page reduces
+the speed but increases the frontier) would be drastically reduced,
+and the second one (classifier) would be extended. Particularly, this
+second part should better explain what is the cost of detecting
+deferred representation. For instance the metric "ajax in HTML",
+measures the prescence of this syntax and it adds the value to the vector,
+but that means that this asyncronous call will  execute in load time?
+afecting the DOM and adding external resources? Is it planned to
+enhance interaction with the user (after page load) ?  This case can be
+a false positive of a deferred resource, when in reality it is not
+necesarry. More generally, it is really not clear what is the cost of
+the detection/prediction. As it is written, the paper leads to think that the
+detection requires some "partial" rendering in order to give input
+values to the classifier. If not the case, this should be cleearly stated since it is a crucial issue here.
+
+The introduction should also be rewritten, so that the main
+contribution, as explained above, is better highlighted
+
+
+----------------------- REVIEW 2 ---------------------
+PAPER: 6
+TITLE: Archiving Deferred Representations Using a Two-Tiered Crawling Approach
+AUTHORS: Justin Brunelle, Michele Weigle and Michael Nelson
+
+OVERALL EVALUATION: -1 (weak reject)
+REVIEWER'S CONFIDENCE: 3 (medium)
+
+----------- REVIEW -----------
+This paper present as study of the impact of including a headless browsing tool (PhantomJS) in the crawling process. The experimental evaluation shows that at a significant increase in cost, the amount of URIs found is significantly increased.  In order to reduce crawl time a classifier is used to select which sites should be crawled using PhantomJS. In general the paper is very well written and the experiments are competently performed.  On the negative side, the research contribution of the paper is marginal. As noted in the paper there have been previous work on crawling sites containing JavaScripts, and as such it makes much of the paper more an experimental evaluating comparing three different crawling tools. It does not manage to convince me that the contribution/novelty is strong enough to vote for accept as full paper at JCDL.
+
+
+----------------------- REVIEW 3 ---------------------
+PAPER: 6
+TITLE: Archiving Deferred Representations Using a Two-Tiered Crawling Approach
+AUTHORS: Justin Brunelle, Michele Weigle and Michael Nelson
+
+OVERALL EVALUATION: 2 (accept)
+REVIEWER'S CONFIDENCE: 3 (medium)
+
+----------- REVIEW -----------
+This paper is a very detailed analysis of a clever strategy for improving both performance and comprehensiveness in web crawling (mainly for archival purposes; it's less clear to me how this plays out in the case where indexing is the primary objective). It contains a lot of fine detail packed into a very few pages, and while clearly written is not an easy read for those who aren't already familiar with a good deal of the prior work (the the authors and others). 
+
+I found myself looking for more analysis of how the overall deferred representation strategy and the approaches explored here actually contributed to the "quality" of archiving in a web when the nature of web pages is changing in complex technical ways. For example, many of the problems seem to involve the interaction between advertisements inserted in a page dynamically and the underlying core page content, both static and dynamic. Given the somewhat random nature of the ads that appear each time a page is rendered to someone, how important is it to capture this?
+
+
+-------------------------  METAREVIEW  ------------------------
+PAPER: 6
+TITLE: Archiving Deferred Representations Using a Two-Tiered Crawling Approach
+
+The paper can be accepted only if the authors are able to revise the submission in due time making explicit the benefits of their results in the context of the area of Digital Libraries and/or of Digital Archive Systems.
+
+If the authors accept to modify the paper incorporating also the changes requested by the reviewers, the paper can be accepted. But it is necessary to check the inclusion of the changes in the revised submission. 
+
+If the changes are not inserted in the new version of the paper, the paper cannot be accepted.

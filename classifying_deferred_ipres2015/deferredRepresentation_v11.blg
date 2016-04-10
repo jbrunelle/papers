@@ -1,0 +1,83 @@
+This is BibTeX, Version 0.99d (TeX Live 2013/Debian)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: deferredRepresentation_v11.aux
+The style file: abbrv.bst
+I found no \bibdata command---while reading file deferredRepresentation_v11.aux
+Warning--I didn't find a database entry for "ijdl"
+Warning--I didn't find a database entry for "iawebarchive"
+Warning--I didn't find a database entry for "waybackarchives2"
+Warning--I didn't find a database entry for "usingIA"
+Warning--I didn't find a database entry for "marshalls_social_media_study"
+Warning--I didn't find a database entry for "yasminLinks"
+Warning--I didn't find a database entry for "zombies"
+Warning--I didn't find a database entry for "brunelleDamage"
+Warning--I didn't find a database entry for "googleJS"
+Warning--I didn't find a database entry for "nelson:memento:tr"
+Warning--I didn't find a database entry for "ipresArchivability"
+Warning--I didn't find a database entry for "kellyTPDL2013"
+Warning--I didn't find a database entry for "spaniol9catch"
+Warning--I didn't find a database entry for "spaniol2009data"
+Warning--I didn't find a database entry for "Denev:2009:SFQ:1687627.1687694"
+Warning--I didn't find a database entry for "saad2011"
+Warning--I didn't find a database entry for "mementoQuality"
+Warning--I didn't find a database entry for "iipc2013"
+Warning--I didn't find a database entry for "futureWeb"
+Warning--I didn't find a database entry for "mesbahCrawling"
+Warning--I didn't find a database entry for "mesbahInferState"
+Warning--I didn't find a database entry for "mesbahTesting"
+Warning--I didn't find a database entry for "mesbah2"
+Warning--I didn't find a database entry for "dincturkAjax"
+Warning--I didn't find a database entry for "htrixJS"
+Warning--I didn't find a database entry for "wget"
+Warning--I didn't find a database entry for "heritrix"
+Warning--I didn't find a database entry for "Sigurosson:Incremental-Heritrix"
+Warning--I didn't find a database entry for "hmotwia"
+Warning--I didn't find a database entry for "robots"
+Warning--I didn't find a database entry for "robotsProtocol"
+Warning--I didn't find a database entry for "uriDupes"
+Warning--I didn't find a database entry for "uriDupes2"
+Warning--I didn't find a database entry for "umbra"
+Warning--I didn't find a database entry for "weka"
+Warning--I didn't find a database entry for "rotationforest"
+You've used 0 entries,
+            2118 wiz_defined-function locations,
+            550 strings with 4420 characters,
+and the built_in function-call counts, 18 in all, are:
+= -- 0
+> -- 0
+< -- 0
++ -- 0
+- -- 0
+* -- 2
+:= -- 7
+add.period$ -- 0
+call.type$ -- 0
+change.case$ -- 0
+chr.to.int$ -- 0
+cite$ -- 0
+duplicate$ -- 0
+empty$ -- 1
+format.name$ -- 0
+if$ -- 1
+int.to.chr$ -- 0
+int.to.str$ -- 0
+missing$ -- 0
+newline$ -- 3
+num.names$ -- 0
+pop$ -- 0
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 1
+stack$ -- 0
+substring$ -- 0
+swap$ -- 0
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 0
+while$ -- 0
+width$ -- 0
+write$ -- 2
+(There was 1 error message)

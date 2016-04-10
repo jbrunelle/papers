@@ -1,0 +1,48 @@
+This is BibTeX, Version 0.99d (TeX Live 2013/Debian)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: mobile_mink_v0.aux
+The style file: abbrv.bst
+Database file #1: _mybibtex.bib
+Warning--to sort, need author or key in archivetoday
+You've used 9 entries,
+            2118 wiz_defined-function locations,
+            554 strings with 5254 characters,
+and the built_in function-call counts, 3051 in all, are:
+= -- 288
+> -- 159
+< -- 4
++ -- 65
+- -- 54
+* -- 206
+:= -- 498
+add.period$ -- 26
+call.type$ -- 9
+change.case$ -- 54
+chr.to.int$ -- 0
+cite$ -- 10
+duplicate$ -- 117
+empty$ -- 236
+format.name$ -- 54
+if$ -- 647
+int.to.chr$ -- 0
+int.to.str$ -- 9
+missing$ -- 6
+newline$ -- 47
+num.names$ -- 16
+pop$ -- 65
+preamble$ -- 1
+purify$ -- 45
+quote$ -- 0
+skip$ -- 94
+stack$ -- 0
+substring$ -- 134
+swap$ -- 33
+text.length$ -- 4
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 36
+warning$ -- 1
+while$ -- 26
+width$ -- 10
+write$ -- 97
+(There was 1 warning)

@@ -1,0 +1,226 @@
+\begin{thebibliography}{10}
+
+\bibitem{hmotwia}
+S.~Ainsworth, A.~Alsum, H.~SalahEldeen, M.~C. Weigle, and M.~L. Nelson.
+\newblock {How much of the Web is archived?}
+\newblock In {\em {Proceedings of the 2011 IEEE/ACM Joint Conference on Digital
+  Libraries (JCDL)}}, pages 133--136, 2011.
+
+\bibitem{yasminLinks}
+Y.~Alnoamany, A.~Alsum, M.~Weigle, and M.~Nelson.
+\newblock {Who and What Links to the Internet Archive}.
+\newblock In {\em {Proceedings of the Third International Conference on Theory
+  and Practice of Digital Libraries}}, pages 346--357. ACM, 2013.
+
+\bibitem{ipresArchivability}
+V.~Banos, K.~Yunhyong, S.~Ross, and Y.~Manolopoulos.
+\newblock {CLEAR: a Credible Method to Evaluate Website Archivability}.
+\newblock In {\em Proceedings of the 9th International Conference on
+  Preservation of Digital Objects}, 2013.
+
+\bibitem{saad2011}
+M.~{Ben Saad} and S.~Gançarski.
+\newblock Archiving the web using page changes patterns: A case study.
+\newblock In {\em {Proceedings of the 11th Annual International Joint
+  Conference on Digital Libraries}}, pages 113--122, 2011.
+
+\bibitem{googleJS}
+J.~F. Brunelle.
+\newblock {Google and JavaScript}.
+\newblock
+  \url{http://ws-dl.blogspot.com/2014/06/2014-06-18-google-and-javascript.html},
+  2014.
+
+\bibitem{brunelleDamage}
+J.~F. Brunelle, M.~Kelly, H.~SalahEldeen, M.~C. Weigle, and M.~L. Nelson.
+\newblock {Not All Mementos Are Created Equal: Measuring The Impact Of Missing
+  Resources}.
+\newblock In {\em {Proceedings of the 2014 IEEE/ACM Joint Conference on Digital
+  Libraries (JCDL)}}, pages 321 -- 330, 2014.
+
+\bibitem{ijdl}
+J.~F. Brunelle, M.~Kelly, M.~C. Weigle, and M.~L. Nelson.
+\newblock {The Impact of JavaScript on Archivability}.
+\newblock {\em International Journal on Digital Libraries}, pages 1--23, 2015.
+
+\bibitem{zombies}
+J.~F. Brunelle and M.~L. Nelson.
+\newblock Zombies in the archives.
+\newblock
+  \url{http://ws-dl.blogspot.com/2012/10/2012-10-10-zombies-in-archives.html},
+  2012.
+
+\bibitem{Denev:2009:SFQ:1687627.1687694}
+D.~Denev, A.~Mazeika, M.~Spaniol, and G.~Weikum.
+\newblock {SHARC: framework for quality-conscious web archiving}.
+\newblock {\em Proceedings of the 35th International Conference on Very Large
+  Data Bases}, 2:586--597, August 2009.
+
+\bibitem{dincturkAjax}
+M.~E. Dincturk, G.-V. Jourdan, G.~V. Bochmann, and I.~V. Onut.
+\newblock {A Model-Based Approach for Crawling Rich Internet Applications}.
+\newblock {\em ACM Transactions on the Web}, 8(3):19:1--19:39, July 2014.
+
+\bibitem{wget}
+{GNU}.
+\newblock {Introduction to GNU Wget}.
+\newblock \url{http://www.gnu.org/software/wget/}, 2013.
+
+\bibitem{mementoQuality}
+G.~Gray and S.~Martin.
+\newblock Choosing a sustainable web archiving method: A comparison of capture
+  quality.
+\newblock {\em D-Lib Magazine}, 19(5), May 2013.
+
+\bibitem{weka}
+M.~Hall, E.~Frank, G.~Holmes, B.~Pfahringer, P.~Reutemann, and I.~H. Witten.
+\newblock The weka data mining software: An update.
+\newblock {\em SIGKDD Explorations}, 11(1):10--18, 2009.
+
+\bibitem{usingIA}
+B.~A. Howell.
+\newblock {Proving Web History: How to Use the Internet Archive}.
+\newblock {\em Journal of Internet Law}, 9(8):3--9, February 2006.
+
+\bibitem{htrixJS}
+P.~Jack.
+\newblock {ExtractorHTML Extract-JavaScript}.
+\newblock
+  \url{https://webarchive.jira.com/wiki/display/Heritrix/ExtractorHTML+extract-javascript},
+  2014.
+
+\bibitem{kellyTPDL2013}
+M.~Kelly, J.~F. Brunelle, M.~C. Weigle, and M.~L. Nelson.
+\newblock {On the Change in Archivability of Websites Over Time}.
+\newblock In {\em {Proceedings of the Third International Conference on Theory
+  and Practice of Digital Libraries}}, pages 35--47, 2013.
+
+\bibitem{marshalls_social_media_study}
+C.~C. Marshall and F.~M. Shipman.
+\newblock {On the Institutional Archiving of Social Media}.
+\newblock In {\em {Proceedings of the 12th ACM/IEEE-CS Joint Conference on
+  Digital Libraries}}, pages 1--10, 2012.
+
+\bibitem{mesbahInferState}
+A.~Mesbah, E.~Bozdag, and A.~van Deursen.
+\newblock Crawling {A}jax by inferring user interface state changes.
+\newblock In {\em Web Engineering, 2008. ICWE '08. Eighth International
+  Conference on}, pages 122 --134, 2008.
+
+\bibitem{mesbah2}
+A.~Mesbah and A.~van Deursen.
+\newblock Migrating multi-page web applications to single-page ajax interfaces.
+\newblock In {\em Proceedings of the 11th European Conference on Software
+  Maintenance and Reengineering}, CSMR '07, pages 181--190, Washington, DC,
+  USA, 2007. IEEE Computer Society.
+
+\bibitem{mesbahTesting}
+A.~Mesbah and A.~van Deursen.
+\newblock Invariant-based automatic testing of {A}jax user interfaces.
+\newblock In {\em Proceedings of the 31st International Conference on Software
+  Engineering}, ICSE '09, pages 210--220, Washington, DC, USA, 2009. IEEE
+  Computer Society.
+
+\bibitem{mesbahCrawling}
+A.~Mesbah, A.~van Deursen, and S.~Lenselink.
+\newblock {Crawling Ajax-Based Web Applications Through Dynamic Analysis of
+  User Interface State Changes}.
+\newblock {\em ACM Transactions on the Web}, 6(1):3:1--3:30, Mar. 2012.
+
+\bibitem{heritrix}
+G.~Mohr, M.~Kimpton, M.~Stack, and I.~Ranitovic.
+\newblock {Introduction to Heritrix, an archival quality web crawler}.
+\newblock In {\em Proceedings of the 4th International Web Archiving Workshop},
+  September 2004.
+
+\bibitem{iawebarchive}
+K.~C. Negulescu.
+\newblock {Web Archiving @ the Internet Archive}.
+\newblock Presentation at the 2010 Digital Preservation Partners Meeting, 2010
+  \url{http://www.digitalpreservation.gov/meetings/documents/ndiipp10/NDIIPP072110FinalIA.ppt}.
+
+\bibitem{futureWeb}
+{NetPreserver.org}.
+\newblock {IIPC Future of the Web Workshop – Introduction \& Overview}.
+\newblock
+  \url{http://netpreserve.org/sites/default/files/resources/OverviewFutureWebWorkshop.pdf},
+  2012.
+
+\bibitem{umbra}
+S.~Reed.
+\newblock {Introduction to Umbra}.
+\newblock
+  \url{https://webarchive.jira.com/wiki/display/ARIH/Introduction+to+Umbra},
+  2014.
+
+\bibitem{robots}
+{Robots.txt}.
+\newblock {The Web Robots Page}.
+\newblock \url{http://www.robotstxt.org/}, 2014.
+
+\bibitem{rotationforest}
+J.~J. Rodriguez, L.~I. Kuncheva, and C.~J. Alonso.
+\newblock Rotation forest: A new classifier ensemble method.
+\newblock {\em IEEE Transactions on Pattern Analysis and Machine Intelligence},
+  28(10):1619--1630, Oct. 2006.
+
+\bibitem{iipc2013}
+D.~S.~H. Rosenthal.
+\newblock {Talk on Harvesting the Future Web at IIPC2013}.
+\newblock
+  \url{http://blog.dshr.org/2013/04/talk-on-harvesting-future-web-at.html},
+  2013.
+
+\bibitem{Sigurosson:Incremental-Heritrix}
+K.~Sigurðsson.
+\newblock Incremental crawling with {Heritrix}.
+\newblock In {\em Proceedings of the 5th International Web Archiving Workshop},
+  Sept. 2005.
+
+\bibitem{uriDupes}
+K.~Sigurðsson.
+\newblock {The results of URI-agnostic deduplication on a domain crawl}.
+\newblock
+  \url{http://kris-sigur.blogspot.com/2014/12/the-results-of-uri-agnostic.html},
+  2014.
+
+\bibitem{uriDupes2}
+K.~Sigurðsson.
+\newblock {URI agnostic deduplication on content discovered at crawl time}.
+\newblock
+  \url{http://kris-sigur.blogspot.com/2014/12/uri-agnostic-deduplication-on-content.html},
+  2014.
+
+\bibitem{spaniol2009data}
+M.~Spaniol, D.~Denev, A.~Mazeika, G.~Weikum, and P.~Senellart.
+\newblock {Data quality in web archiving}.
+\newblock In {\em {Proceedings of the 3rd Workshop on Information Credibility
+  on the Web}}, pages 19--26. ACM, 2009.
+
+\bibitem{spaniol9catch}
+M.~Spaniol, A.~Mazeika, D.~Denev, and G.~Weikum.
+\newblock {Catch me if you can: Visual Analysis of Coherence Defects in Web
+  Archiving}.
+\newblock In {\em {Proceedings of The 9th International Web Archiving
+  Workshop}}, pages 27--37, 2009.
+
+\bibitem{robotsProtocol}
+Y.~Sun, Z.~Zhuang, and C.~L. Giles.
+\newblock A large-scale study of robots.txt.
+\newblock In {\em Proceedings of the 16th International Conference on World
+  Wide Web}, WWW '07, pages 1123--1124, 2007.
+
+\bibitem{waybackarchives2}
+B.~Tofel.
+\newblock {`Wayback' for Accessing Web Archives}.
+\newblock In {\em Proceedings of the 7th International Web Archiving Workshop},
+  2007.
+
+\bibitem{nelson:memento:tr}
+H.~{Van de Sompel}, M.~L. Nelson, R.~Sanderson, L.~L. Balakireva, S.~Ainsworth,
+  and H.~Shankar.
+\newblock {Memento: Time Travel for the Web}.
+\newblock Technical Report arXiv:0911.1112, Los Alamos National Laboratory,
+  2009.
+
+\end{thebibliography}

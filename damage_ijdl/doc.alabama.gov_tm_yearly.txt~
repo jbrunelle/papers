@@ -1,0 +1,13 @@
+phantomjs --local-to-remote-url-access=yes rasterize.js http://web.archive.org/web/20070108174819/http://www.doc.alabama.gov/ doc.alabama.gov_2007.png doc.alabama.gov_2007.html doc.alabama.gov_2007.404
+
+phantomjs --local-to-remote-url-access=yes rasterize.js http://web.archive.org/web/20080124152711/http://www.doc.alabama.gov/ doc.alabama.gov_2008.png doc.alabama.gov_2008.html doc.alabama.gov_2008.404
+
+phantomjs --local-to-remote-url-access=yes rasterize.js http://web.archive.org/web/20090130014050/http://www.doc.alabama.gov/ doc.alabama.gov_2009.png doc.alabama.gov_2009.html doc.alabama.gov_2009.404
+
+phantomjs --local-to-remote-url-access=yes rasterize.js http://web.archive.org/web/20100101133024/http://www.doc.alabama.gov/ doc.alabama.gov_2010.png doc.alabama.gov_2010.html doc.alabama.gov_2010.404
+
+phantomjs --local-to-remote-url-access=yes rasterize.js http://web.archive.org/web/20110310121232/http://doc.alabama.gov/ doc.alabama.gov_2011.png doc.alabama.gov_2011.html doc.alabama.gov_2011.404
+
+phantomjs --local-to-remote-url-access=yes rasterize.js http://web.archive.org/web/20120121031841/http://doc.alabama.gov/ doc.alabama.gov_2012.png doc.alabama.gov_2012.html doc.alabama.gov_2012.404
+
+phantomjs --local-to-remote-url-access=yes rasterize.js http://web.archive.org/web/20130124184127/http://doc.alabama.gov/ doc.alabama.gov_2013.png doc.alabama.gov_2013.html doc.alabama.gov_2013.404

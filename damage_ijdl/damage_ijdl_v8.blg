@@ -1,0 +1,53 @@
+This is BibTeX, Version 0.99d (TeX Live 2013/Debian)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: damage_ijdl_v8.aux
+The style file: spmpsci.bst
+Database file #1: _mybibtex.bib
+You're missing a field name---line 1436 of file _mybibtex.bib
+ :   
+ :   %organization={ACM},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+Warning--empty title in archiveQA
+You've used 46 entries,
+            2946 wiz_defined-function locations,
+            881 strings with 13408 characters,
+and the built_in function-call counts, 32830 in all, are:
+= -- 3790
+> -- 662
+< -- 21
++ -- 408
+- -- 228
+* -- 1367
+:= -- 3297
+add.period$ -- 68
+call.type$ -- 46
+change.case$ -- 293
+chr.to.int$ -- 0
+cite$ -- 47
+duplicate$ -- 3582
+empty$ -- 2266
+format.name$ -- 259
+if$ -- 7018
+int.to.chr$ -- 0
+int.to.str$ -- 46
+missing$ -- 405
+newline$ -- 212
+num.names$ -- 92
+pop$ -- 1305
+preamble$ -- 1
+purify$ -- 206
+quote$ -- 0
+skip$ -- 1969
+stack$ -- 0
+substring$ -- 1452
+swap$ -- 2860
+text.length$ -- 21
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 184
+warning$ -- 1
+while$ -- 181
+width$ -- 48
+write$ -- 495
+(There was 1 error message)

@@ -1,0 +1,46 @@
+This is BibTeX, Version 0.99d (TeX Live 2013/Debian)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: damage_ijdl_v3.aux
+The style file: spmpsci.bst
+Database file #1: _mybibtex.bib
+You've used 35 entries,
+            2946 wiz_defined-function locations,
+            821 strings with 11674 characters,
+and the built_in function-call counts, 24971 in all, are:
+= -- 2867
+> -- 510
+< -- 15
++ -- 305
+- -- 176
+* -- 1053
+:= -- 2532
+add.period$ -- 58
+call.type$ -- 35
+change.case$ -- 231
+chr.to.int$ -- 0
+cite$ -- 35
+duplicate$ -- 2727
+empty$ -- 1741
+format.name$ -- 200
+if$ -- 5335
+int.to.chr$ -- 0
+int.to.str$ -- 35
+missing$ -- 316
+newline$ -- 167
+num.names$ -- 70
+pop$ -- 975
+preamble$ -- 1
+purify$ -- 158
+quote$ -- 0
+skip$ -- 1476
+stack$ -- 0
+substring$ -- 1083
+swap$ -- 2154
+text.length$ -- 15
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 140
+warning$ -- 0
+while$ -- 137
+width$ -- 37
+write$ -- 387

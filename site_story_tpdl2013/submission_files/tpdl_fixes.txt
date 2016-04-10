@@ -1,0 +1,24 @@
+TPDL Fixes:
+==============
+RE: "human-harvested"
+- changed to "manual"
+
+RE: "as quickly as possible"
+- I removed this. I think it still makes sense. Also addressed the issue with the word "concurrency". This now reads: "This utility makes N number of connections with C concurrency (meaning C connections are executing in parallel), where..."
+
+RE: Image placement:
+- I can't quite get these in the right spots. If I force them to the top of the pages, they end up after the references as their own page, and makes the document 13 pages long. I've tried:
+\begin{figure}[ht]
+\begin{figure}[t]
+\begin{figure*}[ht]
+\begin{figure*}[t]
+Moving images around in text to force their appearance.
+
+RE: Conclusion comments:
+Modified the first two sentences to this:
+"In this work, we stress tested and benchmarked a pre-release version of SiteStory with the ApacheBench (ab) utility. Our experiment environment replicates resource sizes and access loads observed in  MITRE's Corporate Intranet. The results of this study ..."
+
+RE: Red-on, blue-off
+Haven't done this, yet. Working on it.
+
+
